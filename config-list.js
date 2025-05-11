@@ -45,12 +45,6 @@ let feedList = [
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
   { // <outline type="rss" text="游戲指南針++$0414-1925$" title="游戲指南針++$0414-1925$" xmlUrl="http://pulipuli.myqnapcloud.com/304/fc/$0414-1925$/https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCVjXB6QUf_aZ_FninmssCOg" htmlUrl="https://www.youtube.com/channel/UCVjXB6QUf_aZ_FninmssCOg"/>
-    title: '懷爸瘋科技',
-    feedID: 'jono_craztech',
-    homepageURL: 'https://www.youtube.com/channel/UCP87m51BCpfat9lxD533Mqw',
-    itemFilters: ItemFiltersPreset.between3minTo30Min,
-  },
-  { // <outline type="rss" text="游戲指南針++$0414-1925$" title="游戲指南針++$0414-1925$" xmlUrl="http://pulipuli.myqnapcloud.com/304/fc/$0414-1925$/https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCVjXB6QUf_aZ_FninmssCOg" htmlUrl="https://www.youtube.com/channel/UCVjXB6QUf_aZ_FninmssCOg"/>
     title: '陳寗',
     feedID: 'NingSelect',
     homepageURL: 'https://www.youtube.com/channel/UCwxkPMOdYr6MxKjyUPWCOuQ',
