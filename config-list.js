@@ -80,6 +80,21 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCUkwvRrpvWkocNdk9qIpRSw',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+  {
+    title: '卡提諾狂新聞',
+    feedID: 'CrazyNews9487',
+    homepageURL: 'https://www.youtube.com/channel/UCVF3bTd3dxM4IfOMFCbNADA',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: '真觀點 談政治',
+    feedID: 'zhenguandian',
+    homepageURL: 'https://www.youtube.com/channel/UCAwVpzgGI9sEu4O4ZlB5ZWQ',
+    itemFilters: [
+      ItemFiltersPreset.between10minTo60Min,
+    ],
+  },
+  // 滿了！！！
 ]
 
 // 
