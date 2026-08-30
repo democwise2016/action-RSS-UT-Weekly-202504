@@ -1,0 +1,101 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[林亦LYi 聊 3C[YT+]]]></title>
+    <link>http://www.youtube.com/feeds/videos.xml?channel_id=UC4dtpugIYK56S_7btf5a-iQ</link>
+    <image>
+      <url>https://yt3.ggpht.com/2A8k4i7ppGHDnBwzGHIJZ5an_fvHKJ7NpjwCLXrWk003gBVu_Aknt_Fzf-52nXcUA1cInkg9Mg=s88-c-k-c0x00ffffff-no-rj</url>
+      <title>林亦LYi 聊 3C[YT+]</title>
+      <link>http://www.youtube.com/feeds/videos.xml?channel_id=UC4dtpugIYK56S_7btf5a-iQ</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="https://www.youtube.com/feeds/videos.xml?channel_id=UC4dtpugIYK56S_7btf5a-iQ" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[林亦LYi 聊 3C[YT+]]]></copyright>
+    <itunes:author><![CDATA[林亦LYi 聊 3C[YT+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      做一点微小的科技工作。全网同名账号：林亦LYi
+商务合作：business@lyi.ai
+个人邮箱：linyi@lyi.ai<br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC4dtpugIYK56S_7btf5a-iQ" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UC4dtpugIYK56S_7btf5a-iQ</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      做一点微小的科技工作。全网同名账号：林亦LYi
+商务合作：business@lyi.ai
+个人邮箱：linyi@lyi.ai<br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC4dtpugIYK56S_7btf5a-iQ" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UC4dtpugIYK56S_7btf5a-iQ</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[林亦LYi 聊 3C[YT+]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://yt3.ggpht.com/2A8k4i7ppGHDnBwzGHIJZ5an_fvHKJ7NpjwCLXrWk003gBVu_Aknt_Fzf-52nXcUA1cInkg9Mg=s88-c-k-c0x00ffffff-no-rj"/>
+<item>
+      <title><![CDATA[大厂集体转向，AI办公能成吗？]]></title>
+      <link>https://www.youtube.com/watch?v=95n5mAedbRw</link>
+      <itunes:title><![CDATA[大厂集体转向，AI办公能成吗？]]></itunes:title>
+      <itunes:author><![CDATA[林亦LYi]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/95n5mAedbRw/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=95n5mAedbRw">https://www.youtube.com/watch?v=95n5mAedbRw</a></p><h1>值得閱讀的理由</h1><ul><li>掌握 AI 辦公智能體的最新演進脈絡：了解 AI 如何從工程師專用的輔助程式碼編輯工具，演變為能夠全自動規劃、設計與執行的通用型辦公助手。</li><li>深入拆解多模式 AI 實戰工作流：透過「辦公、編程、設計」三種模式的無縫串聯，學習如何零程式碼將混亂資料迅速轉換為可互動的個人工作台。</li><li>釐清人機協作的新核心競爭力：理解大廠押注 AI 辦公背後的本質變革，掌握在 AI 接管執行層面後，人類如何透過「提出好問題」與「定義驗收標準」放大個人價值。</li></ul><hr /><h1>摘要</h1><h2>從程式碼助手到通用 AI 辦公智能體的演進</h2><p>作者回顧了 AI 工具的發展歷程，從早期缺乏自主性、需要人類一步步指令的輔助編輯介面，逐步演進至能自主檢查檔案與完成任務的智能體。隨著底層大模型能力的大幅提升，AI 辦公工具如 <strong>Trae Work</strong> 打破了專屬於工程師的開發環境邊界，正式走入大眾視野，擴展至報表製作、報告撰寫與資料整合等多元日常辦公場景。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/95n5mAedbRw_88.jpg" /></p><h2>Trae Work 三大模式與能力模組解析</h2><p>影片深入介紹了 <strong>Trae Work</strong> 的核心架構，包含<strong>辦公模式</strong>、<strong>編程模式</strong>與<strong>設計模式</strong>。辦公模式擅長在模糊需求下進行長鏈路的資料檢索與活動策劃；編程模式則能在完整環境中自動除錯並建置工具原型；設計模式可直觀生成多頁面跳轉結構圖。使用者還能搭配預設的<strong>外掛技能</strong>（如 PPT 生成器），大幅降低溝通成本並提升產出品質。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/95n5mAedbRw_286.jpg" /></p><h2>實戰演練：從混亂資料到個人化工作台</h2><p>作者以整理大量雜亂筆記為例，展示了跨模式的實戰流程。首先在辦公模式中安全讀取本地檔案並產出結構化計劃；接著導入設計模式選定專屬<strong>設計系統</strong>與介面規範；最後直接交由編程模式進行開發，透過自然語言溝通與自動除錯，在未寫一行程式碼的情況下成功打造出可視化的個人工作台原型。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/95n5mAedbRw_485.jpg" /></p><h2>自動化情報收集與個人設計系統應用</h2><p>針對進階操作，作者分享了兩項實用技巧：第一是利用<strong>自動化任務</strong>與協作外掛，設定每日定時抓取並篩選高價值的產業新聞；第二是善用 AI 的主動反問機制，即使給予粗略的提示詞，也能逐步確認需求並梳理出專屬的視覺風格系統，實現極致的個人化效率提升。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/95n5mAedbRw_563.jpg" /></p><h2>人機協作時代的核心競爭力轉變</h2><p>面對 AI 辦公帶來的變革，作者指出各大科技巨頭爭奪的關鍵是成為使用者「開啟工作的第一站」。人機協作的本質已從過去「適應軟體操作規則」轉變為「<strong>定義目標與驗收標準</strong>」。AI 雖然接管了繁重的機械式執行，但最終產出的價值高低，依然取決於人類提出問題的深度、提供資料的精確度以及創造力的發揮。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=95n5mAedbRw">https://www.youtube.com/watch?v=95n5mAedbRw</a></p><p>AI 办公到底能干些啥？它真的能颠覆我们的工作方式，以至于让大厂押上身家也要卷吗？</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/95n5mAedbRw/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=95n5mAedbRw">https://www.youtube.com/watch?v=95n5mAedbRw</a></p><h1>值得閱讀的理由</h1><ul><li>掌握 AI 辦公智能體的最新演進脈絡：了解 AI 如何從工程師專用的輔助程式碼編輯工具，演變為能夠全自動規劃、設計與執行的通用型辦公助手。</li><li>深入拆解多模式 AI 實戰工作流：透過「辦公、編程、設計」三種模式的無縫串聯，學習如何零程式碼將混亂資料迅速轉換為可互動的個人工作台。</li><li>釐清人機協作的新核心競爭力：理解大廠押注 AI 辦公背後的本質變革，掌握在 AI 接管執行層面後，人類如何透過「提出好問題」與「定義驗收標準」放大個人價值。</li></ul><hr /><h1>摘要</h1><h2>從程式碼助手到通用 AI 辦公智能體的演進</h2><p>作者回顧了 AI 工具的發展歷程，從早期缺乏自主性、需要人類一步步指令的輔助編輯介面，逐步演進至能自主檢查檔案與完成任務的智能體。隨著底層大模型能力的大幅提升，AI 辦公工具如 <strong>Trae Work</strong> 打破了專屬於工程師的開發環境邊界，正式走入大眾視野，擴展至報表製作、報告撰寫與資料整合等多元日常辦公場景。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/95n5mAedbRw_88.jpg" /></p><h2>Trae Work 三大模式與能力模組解析</h2><p>影片深入介紹了 <strong>Trae Work</strong> 的核心架構，包含<strong>辦公模式</strong>、<strong>編程模式</strong>與<strong>設計模式</strong>。辦公模式擅長在模糊需求下進行長鏈路的資料檢索與活動策劃；編程模式則能在完整環境中自動除錯並建置工具原型；設計模式可直觀生成多頁面跳轉結構圖。使用者還能搭配預設的<strong>外掛技能</strong>（如 PPT 生成器），大幅降低溝通成本並提升產出品質。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/95n5mAedbRw_286.jpg" /></p><h2>實戰演練：從混亂資料到個人化工作台</h2><p>作者以整理大量雜亂筆記為例，展示了跨模式的實戰流程。首先在辦公模式中安全讀取本地檔案並產出結構化計劃；接著導入設計模式選定專屬<strong>設計系統</strong>與介面規範；最後直接交由編程模式進行開發，透過自然語言溝通與自動除錯，在未寫一行程式碼的情況下成功打造出可視化的個人工作台原型。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/95n5mAedbRw_485.jpg" /></p><h2>自動化情報收集與個人設計系統應用</h2><p>針對進階操作，作者分享了兩項實用技巧：第一是利用<strong>自動化任務</strong>與協作外掛，設定每日定時抓取並篩選高價值的產業新聞；第二是善用 AI 的主動反問機制，即使給予粗略的提示詞，也能逐步確認需求並梳理出專屬的視覺風格系統，實現極致的個人化效率提升。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/95n5mAedbRw_563.jpg" /></p><h2>人機協作時代的核心競爭力轉變</h2><p>面對 AI 辦公帶來的變革，作者指出各大科技巨頭爭奪的關鍵是成為使用者「開啟工作的第一站」。人機協作的本質已從過去「適應軟體操作規則」轉變為「<strong>定義目標與驗收標準</strong>」。AI 雖然接管了繁重的機械式執行，但最終產出的價值高低，依然取決於人類提出問題的深度、提供資料的精確度以及創造力的發揮。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=95n5mAedbRw">https://www.youtube.com/watch?v=95n5mAedbRw</a></p><p>AI 办公到底能干些啥？它真的能颠覆我们的工作方式，以至于让大厂押上身家也要卷吗？</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/95n5mAedbRw/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=95n5mAedbRw">https://www.youtube.com/watch?v=95n5mAedbRw</a></p><h1>值得閱讀的理由</h1><ul><li>掌握 AI 辦公智能體的最新演進脈絡：了解 AI 如何從工程師專用的輔助程式碼編輯工具，演變為能夠全自動規劃、設計與執行的通用型辦公助手。</li><li>深入拆解多模式 AI 實戰工作流：透過「辦公、編程、設計」三種模式的無縫串聯，學習如何零程式碼將混亂資料迅速轉換為可互動的個人工作台。</li><li>釐清人機協作的新核心競爭力：理解大廠押注 AI 辦公背後的本質變革，掌握在 AI 接管執行層面後，人類如何透過「提出好問題」與「定義驗收標準」放大個人價值。</li></ul><hr /><h1>摘要</h1><h2>從程式碼助手到通用 AI 辦公智能體的演進</h2><p>作者回顧了 AI 工具的發展歷程，從早期缺乏自主性、需要人類一步步指令的輔助編輯介面，逐步演進至能自主檢查檔案與完成任務的智能體。隨著底層大模型能力的大幅提升，AI 辦公工具如 <strong>Trae Work</strong> 打破了專屬於工程師的開發環境邊界，正式走入大眾視野，擴展至報表製作、報告撰寫與資料整合等多元日常辦公場景。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/95n5mAedbRw_88.jpg" /></p><h2>Trae Work 三大模式與能力模組解析</h2><p>影片深入介紹了 <strong>Trae Work</strong> 的核心架構，包含<strong>辦公模式</strong>、<strong>編程模式</strong>與<strong>設計模式</strong>。辦公模式擅長在模糊需求下進行長鏈路的資料檢索與活動策劃；編程模式則能在完整環境中自動除錯並建置工具原型；設計模式可直觀生成多頁面跳轉結構圖。使用者還能搭配預設的<strong>外掛技能</strong>（如 PPT 生成器），大幅降低溝通成本並提升產出品質。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/95n5mAedbRw_286.jpg" /></p><h2>實戰演練：從混亂資料到個人化工作台</h2><p>作者以整理大量雜亂筆記為例，展示了跨模式的實戰流程。首先在辦公模式中安全讀取本地檔案並產出結構化計劃；接著導入設計模式選定專屬<strong>設計系統</strong>與介面規範；最後直接交由編程模式進行開發，透過自然語言溝通與自動除錯，在未寫一行程式碼的情況下成功打造出可視化的個人工作台原型。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/95n5mAedbRw_485.jpg" /></p><h2>自動化情報收集與個人設計系統應用</h2><p>針對進階操作，作者分享了兩項實用技巧：第一是利用<strong>自動化任務</strong>與協作外掛，設定每日定時抓取並篩選高價值的產業新聞；第二是善用 AI 的主動反問機制，即使給予粗略的提示詞，也能逐步確認需求並梳理出專屬的視覺風格系統，實現極致的個人化效率提升。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/95n5mAedbRw_563.jpg" /></p><h2>人機協作時代的核心競爭力轉變</h2><p>面對 AI 辦公帶來的變革，作者指出各大科技巨頭爭奪的關鍵是成為使用者「開啟工作的第一站」。人機協作的本質已從過去「適應軟體操作規則」轉變為「<strong>定義目標與驗收標準</strong>」。AI 雖然接管了繁重的機械式執行，但最終產出的價值高低，依然取決於人類提出問題的深度、提供資料的精確度以及創造力的發揮。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=95n5mAedbRw">https://www.youtube.com/watch?v=95n5mAedbRw</a></p><p>AI 办公到底能干些啥？它真的能颠覆我们的工作方式，以至于让大厂押上身家也要卷吗？</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/95n5mAedbRw/hqdefault.jpg"/>
+      <pubDate>2026-08-14T12:00:04.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[上火星，马斯克的惊天骗局？]]></title>
+      <link>https://www.youtube.com/watch?v=MTJ1eSsg5sY</link>
+      <itunes:title><![CDATA[上火星，马斯克的惊天骗局？]]></itunes:title>
+      <itunes:author><![CDATA[林亦LYi]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/MTJ1eSsg5sY/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=MTJ1eSsg5sY">https://www.youtube.com/watch?v=MTJ1eSsg5sY</a></p><h1>值得閱讀的理由</h1><ul><li>深入剖析埃隆·馬斯克（Elon Musk）創立 <strong>SpaceX</strong> 與推動 <strong>火星移民計畫</strong> 背後的商業邏輯與核心理念「第一性原理」。</li><li>詳述 <strong>獵鷹火箭回收技術</strong> 與 <strong>星艦（Starship）</strong> 的研發歷程，瞭解航天歷史上如何顛覆傳統高昂成本的軍工壟斷。</li><li>全面解析馬斯克如何串聯 <strong>Starlink（星鏈）</strong>、<strong>Tesla Optimus（人形機器人）</strong>、<strong>xAI</strong> 與 <strong>地下挖掘公司</strong>，佈局火星可持續文明生態。</li></ul><hr /><h1>摘要</h1><h2>第一性原理：顛覆傳統航天的建廠之路</h2><p>林亦在影片中探討了埃隆·馬斯克（Elon Musk）建立 <strong>SpaceX</strong> 的初衷與發展。馬斯克在童年受科幻小說影響，立志讓人類成為跨行星物種。為解決傳統航天單程票價高達百億美元的問題，馬斯克運用<strong>「第一性原理」</strong>重新計算火箭成本，發現材料成本僅占售價的2%，大部分資金都被傳統航天的層層轉包與軍工巨頭壟斷所吞噬。因此他在2002年成立SpaceX，決定自研廉價火箭。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/MTJ1eSsg5sY_83.jpg" /></p><h2>獵鷹火箭的血淚試錯與回收奇蹟</h2><p>早期的<strong>獵鷹1號（Falcon 1）</strong>經歷了三次連續爆炸的失敗慘劇，公司幾近破產，直至2008年第四次發射才成功入軌，成為首個私營液體推進劑火箭。為了進一步大幅降低發射成本，馬斯克提出「火箭回收再利用」的狂想。<strong>獵鷹9號（Falcon 9）</strong>在經歷無數次海上平台爆炸後，於2016年成功實現陸上與海上回收，開創了航天史上的歷史性突破，並徹底打碎了波音與洛克希德·馬丁等傳統航天巨頭的壟斷。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/MTJ1eSsg5sY_252.jpg" /></p><h2>星鏈計畫與商業閉環的建立</h2><p>為了給遠大的火星計畫提供持續資金支持，SpaceX 推出了<strong>星鏈（Starlink）</strong>衛星網路服務。馬斯克將衛星製造改為「流水線生產」，大幅降低單顆衛星成本。隨著數千顆衛星成功升空，星鏈不僅解決了偏遠地區的通訊難題，更在2023年達成財務轉虧為盈，成為SpaceX最穩健的商業現金流來源。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/MTJ1eSsg5sY_442.jpg" /></p><h2>星艦 Starship：用不鏽鋼與「筷子回收」挑戰極限</h2><p>為實現火星移民，SpaceX 打造了史上最大火箭——<strong>星艦（Starship）</strong>。馬斯克打破常規，摒棄昂貴的碳纖維，改用廉價的<strong>不鏽鋼</strong>作為箭體材料，並創造性地設計了利用發射塔架機械臂（暱稱「筷子」）在半空中直接抓取返回助推器的超前方案。在多次試飛爆炸與技術調整後，星艦逐步完成了超重型助推器的成功夾回收，將人類帶往火星的夢想推進了一大步。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/MTJ1eSsg5sY_582.jpg" /></p><h2>馬斯克帝國的終極版圖：火星生態圈</h2><p>林亦指出，馬斯克的火星計畫絕非單純的太空探險，而是要在火星建立容納100萬人的永久文明。他將旗下各公司形成協同效應：<strong>Tesla Optimus</strong> 人形機器人負責基礎建設與危險勞動，<strong>xAI</strong> 提供智能大腦，<strong>The Boring Company</strong> 挖掘地下抗輻射生活空間，而 <strong>Neuralink</strong> 則提供腦機互動。這一系列看似獨立的公司，實則都在為火星城市的自給自足做鋪墊。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/MTJ1eSsg5sY_817.jpg" /></p><h2>結語：是驚天騙局還是愚公移山？</h2><p>面對大眾對馬斯克「畫大餅」與頻繁延期的質疑，林亦對比了1903年《紐約時報》斷言人類要1000萬年才能飛天、卻在69天後被萊特兄弟打臉的歷史。雖然馬斯克的目標時程經常延後，但他帶領團隊踏踏實實地實現了一個又一個看似不可能的里程碑。這場火星之夢絕非騙局，而是人類跨越行星邊界的一次宏大實踐。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/MTJ1eSsg5sY_963.jpg" /></p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=MTJ1eSsg5sY">https://www.youtube.com/watch?v=MTJ1eSsg5sY</a></p><p>成立二十多年，烧掉上百亿美元，SpaceX 的火星梦实现到哪一步了？</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/MTJ1eSsg5sY/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=MTJ1eSsg5sY">https://www.youtube.com/watch?v=MTJ1eSsg5sY</a></p><h1>值得閱讀的理由</h1><ul><li>深入剖析埃隆·馬斯克（Elon Musk）創立 <strong>SpaceX</strong> 與推動 <strong>火星移民計畫</strong> 背後的商業邏輯與核心理念「第一性原理」。</li><li>詳述 <strong>獵鷹火箭回收技術</strong> 與 <strong>星艦（Starship）</strong> 的研發歷程，瞭解航天歷史上如何顛覆傳統高昂成本的軍工壟斷。</li><li>全面解析馬斯克如何串聯 <strong>Starlink（星鏈）</strong>、<strong>Tesla Optimus（人形機器人）</strong>、<strong>xAI</strong> 與 <strong>地下挖掘公司</strong>，佈局火星可持續文明生態。</li></ul><hr /><h1>摘要</h1><h2>第一性原理：顛覆傳統航天的建廠之路</h2><p>林亦在影片中探討了埃隆·馬斯克（Elon Musk）建立 <strong>SpaceX</strong> 的初衷與發展。馬斯克在童年受科幻小說影響，立志讓人類成為跨行星物種。為解決傳統航天單程票價高達百億美元的問題，馬斯克運用<strong>「第一性原理」</strong>重新計算火箭成本，發現材料成本僅占售價的2%，大部分資金都被傳統航天的層層轉包與軍工巨頭壟斷所吞噬。因此他在2002年成立SpaceX，決定自研廉價火箭。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/MTJ1eSsg5sY_83.jpg" /></p><h2>獵鷹火箭的血淚試錯與回收奇蹟</h2><p>早期的<strong>獵鷹1號（Falcon 1）</strong>經歷了三次連續爆炸的失敗慘劇，公司幾近破產，直至2008年第四次發射才成功入軌，成為首個私營液體推進劑火箭。為了進一步大幅降低發射成本，馬斯克提出「火箭回收再利用」的狂想。<strong>獵鷹9號（Falcon 9）</strong>在經歷無數次海上平台爆炸後，於2016年成功實現陸上與海上回收，開創了航天史上的歷史性突破，並徹底打碎了波音與洛克希德·馬丁等傳統航天巨頭的壟斷。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/MTJ1eSsg5sY_252.jpg" /></p><h2>星鏈計畫與商業閉環的建立</h2><p>為了給遠大的火星計畫提供持續資金支持，SpaceX 推出了<strong>星鏈（Starlink）</strong>衛星網路服務。馬斯克將衛星製造改為「流水線生產」，大幅降低單顆衛星成本。隨著數千顆衛星成功升空，星鏈不僅解決了偏遠地區的通訊難題，更在2023年達成財務轉虧為盈，成為SpaceX最穩健的商業現金流來源。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/MTJ1eSsg5sY_442.jpg" /></p><h2>星艦 Starship：用不鏽鋼與「筷子回收」挑戰極限</h2><p>為實現火星移民，SpaceX 打造了史上最大火箭——<strong>星艦（Starship）</strong>。馬斯克打破常規，摒棄昂貴的碳纖維，改用廉價的<strong>不鏽鋼</strong>作為箭體材料，並創造性地設計了利用發射塔架機械臂（暱稱「筷子」）在半空中直接抓取返回助推器的超前方案。在多次試飛爆炸與技術調整後，星艦逐步完成了超重型助推器的成功夾回收，將人類帶往火星的夢想推進了一大步。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/MTJ1eSsg5sY_582.jpg" /></p><h2>馬斯克帝國的終極版圖：火星生態圈</h2><p>林亦指出，馬斯克的火星計畫絕非單純的太空探險，而是要在火星建立容納100萬人的永久文明。他將旗下各公司形成協同效應：<strong>Tesla Optimus</strong> 人形機器人負責基礎建設與危險勞動，<strong>xAI</strong> 提供智能大腦，<strong>The Boring Company</strong> 挖掘地下抗輻射生活空間，而 <strong>Neuralink</strong> 則提供腦機互動。這一系列看似獨立的公司，實則都在為火星城市的自給自足做鋪墊。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/MTJ1eSsg5sY_817.jpg" /></p><h2>結語：是驚天騙局還是愚公移山？</h2><p>面對大眾對馬斯克「畫大餅」與頻繁延期的質疑，林亦對比了1903年《紐約時報》斷言人類要1000萬年才能飛天、卻在69天後被萊特兄弟打臉的歷史。雖然馬斯克的目標時程經常延後，但他帶領團隊踏踏實實地實現了一個又一個看似不可能的里程碑。這場火星之夢絕非騙局，而是人類跨越行星邊界的一次宏大實踐。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/MTJ1eSsg5sY_963.jpg" /></p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=MTJ1eSsg5sY">https://www.youtube.com/watch?v=MTJ1eSsg5sY</a></p><p>成立二十多年，烧掉上百亿美元，SpaceX 的火星梦实现到哪一步了？</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/MTJ1eSsg5sY/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=MTJ1eSsg5sY">https://www.youtube.com/watch?v=MTJ1eSsg5sY</a></p><h1>值得閱讀的理由</h1><ul><li>深入剖析埃隆·馬斯克（Elon Musk）創立 <strong>SpaceX</strong> 與推動 <strong>火星移民計畫</strong> 背後的商業邏輯與核心理念「第一性原理」。</li><li>詳述 <strong>獵鷹火箭回收技術</strong> 與 <strong>星艦（Starship）</strong> 的研發歷程，瞭解航天歷史上如何顛覆傳統高昂成本的軍工壟斷。</li><li>全面解析馬斯克如何串聯 <strong>Starlink（星鏈）</strong>、<strong>Tesla Optimus（人形機器人）</strong>、<strong>xAI</strong> 與 <strong>地下挖掘公司</strong>，佈局火星可持續文明生態。</li></ul><hr /><h1>摘要</h1><h2>第一性原理：顛覆傳統航天的建廠之路</h2><p>林亦在影片中探討了埃隆·馬斯克（Elon Musk）建立 <strong>SpaceX</strong> 的初衷與發展。馬斯克在童年受科幻小說影響，立志讓人類成為跨行星物種。為解決傳統航天單程票價高達百億美元的問題，馬斯克運用<strong>「第一性原理」</strong>重新計算火箭成本，發現材料成本僅占售價的2%，大部分資金都被傳統航天的層層轉包與軍工巨頭壟斷所吞噬。因此他在2002年成立SpaceX，決定自研廉價火箭。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/MTJ1eSsg5sY_83.jpg" /></p><h2>獵鷹火箭的血淚試錯與回收奇蹟</h2><p>早期的<strong>獵鷹1號（Falcon 1）</strong>經歷了三次連續爆炸的失敗慘劇，公司幾近破產，直至2008年第四次發射才成功入軌，成為首個私營液體推進劑火箭。為了進一步大幅降低發射成本，馬斯克提出「火箭回收再利用」的狂想。<strong>獵鷹9號（Falcon 9）</strong>在經歷無數次海上平台爆炸後，於2016年成功實現陸上與海上回收，開創了航天史上的歷史性突破，並徹底打碎了波音與洛克希德·馬丁等傳統航天巨頭的壟斷。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/MTJ1eSsg5sY_252.jpg" /></p><h2>星鏈計畫與商業閉環的建立</h2><p>為了給遠大的火星計畫提供持續資金支持，SpaceX 推出了<strong>星鏈（Starlink）</strong>衛星網路服務。馬斯克將衛星製造改為「流水線生產」，大幅降低單顆衛星成本。隨著數千顆衛星成功升空，星鏈不僅解決了偏遠地區的通訊難題，更在2023年達成財務轉虧為盈，成為SpaceX最穩健的商業現金流來源。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/MTJ1eSsg5sY_442.jpg" /></p><h2>星艦 Starship：用不鏽鋼與「筷子回收」挑戰極限</h2><p>為實現火星移民，SpaceX 打造了史上最大火箭——<strong>星艦（Starship）</strong>。馬斯克打破常規，摒棄昂貴的碳纖維，改用廉價的<strong>不鏽鋼</strong>作為箭體材料，並創造性地設計了利用發射塔架機械臂（暱稱「筷子」）在半空中直接抓取返回助推器的超前方案。在多次試飛爆炸與技術調整後，星艦逐步完成了超重型助推器的成功夾回收，將人類帶往火星的夢想推進了一大步。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/MTJ1eSsg5sY_582.jpg" /></p><h2>馬斯克帝國的終極版圖：火星生態圈</h2><p>林亦指出，馬斯克的火星計畫絕非單純的太空探險，而是要在火星建立容納100萬人的永久文明。他將旗下各公司形成協同效應：<strong>Tesla Optimus</strong> 人形機器人負責基礎建設與危險勞動，<strong>xAI</strong> 提供智能大腦，<strong>The Boring Company</strong> 挖掘地下抗輻射生活空間，而 <strong>Neuralink</strong> 則提供腦機互動。這一系列看似獨立的公司，實則都在為火星城市的自給自足做鋪墊。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/MTJ1eSsg5sY_817.jpg" /></p><h2>結語：是驚天騙局還是愚公移山？</h2><p>面對大眾對馬斯克「畫大餅」與頻繁延期的質疑，林亦對比了1903年《紐約時報》斷言人類要1000萬年才能飛天、卻在69天後被萊特兄弟打臉的歷史。雖然馬斯克的目標時程經常延後，但他帶領團隊踏踏實實地實現了一個又一個看似不可能的里程碑。這場火星之夢絕非騙局，而是人類跨越行星邊界的一次宏大實踐。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/MTJ1eSsg5sY_963.jpg" /></p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=MTJ1eSsg5sY">https://www.youtube.com/watch?v=MTJ1eSsg5sY</a></p><p>成立二十多年，烧掉上百亿美元，SpaceX 的火星梦实现到哪一步了？</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/MTJ1eSsg5sY/hqdefault.jpg"/>
+      <pubDate>2026-07-31T16:00:10.000Z</pubDate>
+    </item></channel>
+</rss>
