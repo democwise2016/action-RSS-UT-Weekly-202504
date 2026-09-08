@@ -177,37 +177,5 @@ Yeah～～～～～
 <p><a href="https://www.youtube.com/watch?v=la_32OaLwbc">https://www.youtube.com/watch?v=la_32OaLwbc</a></p><p>只需一句话，让NAS跑断腿也要帮你自动干活的系统，全球首个原生AI NAS系统体验如何，一起来看看~</p><p></p><p>时间轴：</p><p>00:00 全球首个AI原生NAS系统</p><p>00:50 为何原生AI才能干活？</p><p>01:49 AI场景实战</p><p>03:33 AI零门槛上手</p><p>05:50 全新F4-425 Pro</p>]]></content:encoded>
       <itunes:image href="https://i.ytimg.com/vi/la_32OaLwbc/hqdefault.jpg"/>
       <pubDate>2026-07-13T11:58:17.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[我把“局域网”随身带走了，一种新的远程工作方式、不是远程控制！无公网IP也能实现！AI算力、家庭网络环境统统带着走！]]></title>
-      <link>https://www.youtube.com/watch?v=RVW85DnCSIo</link>
-      <itunes:title><![CDATA[我把“局域网”随身带走了，一种新的远程工作方式、不是远程控制！无公网IP也能实现！AI算力、家庭网络环境统统带着走！]]></itunes:title>
-      <itunes:author><![CDATA[我是阿皮啊]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/RVW85DnCSIo/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=RVW85DnCSIo">https://www.youtube.com/watch?v=RVW85DnCSIo</a></p><h1>值得閱讀的理由</h1><ul><li><strong>實現無感內網互聯：</strong>學會如何在不改變使用習慣的情況下，隨身帶走整個家庭局域網，建立專屬的「數位分身」。</li><li><strong>免除公網 IP 限制：</strong>解決許多家庭寬頻沒有公網 IP 的痛點，無需繁瑣的 DDNS 與連接埠映射設定。</li><li><strong>高性價比的組網實踐：</strong>利用低成本硬體建構虛擬局域網，並支援遠端喚醒與檔案共享，完美釋放本地 AI 算力。</li></ul><hr /><h1>摘要</h1><h2>傳統遠端控制的局限與「數位分身」的誕生</h2><p>作者指出，隨著家中的智慧設備、伺服器、工作站與 Docker 服務越來越多，家裡儼然成為一個小型數據中心。然而，傳統上只要一出門，這些設備與內網環境就會斷連。為了解決這個問題，作者提出並實踐了<strong>「數位分身」</strong>的概念。這不是傳統意義上的單一設備遠端控制或單純拷貝檔案，而是讓自己無論身在何處，只要打開電腦，就能無感且直接地進入與家中完全一致的<strong>網路環境</strong>，實現無縫的遠端工作體驗。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/RVW85DnCSIo_112.jpg" /></p><h2>透過 SD-WAN 輕鬆打破物理網路邊界</h2><p>要實現數位分身，傳統方法需要公網 IP 或複雜的網路調試，這對多數人來說門檻極高。作者推薦使用性價比極高的<strong>蒲公英異地組網盒子</strong>，利用其獨家的 <strong>SD-WAN 技術</strong>，將外部設備與家庭內網直接串聯成一個虛擬局域網。這意味著使用者在外也能直接使用內網 IP 存取家中的 NAS 素材、Docker 狀態，甚至直接調用家中的 <strong>AI 大模型算力</strong>來幫忙寫文案或生成圖片，就像人在家裡連著 Wi-Fi 一樣。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/RVW85DnCSIo_225.jpg" /></p><h2>多功能擴充與遠端喚醒的智慧管理</h2><p>除了基礎的虛擬組網，該設備還提供了豐富的實用功能。它配備了 USB 接口，可直連隨身碟或硬碟作為臨時 NAS，並支援<strong>局域網共享列印</strong>。針對高功耗的 AI 算力主機，它還支援<strong>遠端開機（WOL）</strong>，使用者無需讓電腦 24 小時待命，需要時再透過盒子遠端喚醒即可。這種從「連回某台設備」轉變為「進入整個家」的思維轉變，徹底顛覆了傳統的遠端工作方式。</p><hr />
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=RVW85DnCSIo">https://www.youtube.com/watch?v=RVW85DnCSIo</a></p><p>随身携带整个『局域网』是啥体验？！家里的网络环境无感访问、本地AI大模型有了用武之地~</p><p></p><p>时间轴：</p><p>00:00 intro</p><p>00:42 理想化数字分身</p><p>01:52 优雅实现数字分身</p><p>04:24 总结</p>]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/RVW85DnCSIo/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=RVW85DnCSIo">https://www.youtube.com/watch?v=RVW85DnCSIo</a></p><h1>值得閱讀的理由</h1><ul><li><strong>實現無感內網互聯：</strong>學會如何在不改變使用習慣的情況下，隨身帶走整個家庭局域網，建立專屬的「數位分身」。</li><li><strong>免除公網 IP 限制：</strong>解決許多家庭寬頻沒有公網 IP 的痛點，無需繁瑣的 DDNS 與連接埠映射設定。</li><li><strong>高性價比的組網實踐：</strong>利用低成本硬體建構虛擬局域網，並支援遠端喚醒與檔案共享，完美釋放本地 AI 算力。</li></ul><hr /><h1>摘要</h1><h2>傳統遠端控制的局限與「數位分身」的誕生</h2><p>作者指出，隨著家中的智慧設備、伺服器、工作站與 Docker 服務越來越多，家裡儼然成為一個小型數據中心。然而，傳統上只要一出門，這些設備與內網環境就會斷連。為了解決這個問題，作者提出並實踐了<strong>「數位分身」</strong>的概念。這不是傳統意義上的單一設備遠端控制或單純拷貝檔案，而是讓自己無論身在何處，只要打開電腦，就能無感且直接地進入與家中完全一致的<strong>網路環境</strong>，實現無縫的遠端工作體驗。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/RVW85DnCSIo_112.jpg" /></p><h2>透過 SD-WAN 輕鬆打破物理網路邊界</h2><p>要實現數位分身，傳統方法需要公網 IP 或複雜的網路調試，這對多數人來說門檻極高。作者推薦使用性價比極高的<strong>蒲公英異地組網盒子</strong>，利用其獨家的 <strong>SD-WAN 技術</strong>，將外部設備與家庭內網直接串聯成一個虛擬局域網。這意味著使用者在外也能直接使用內網 IP 存取家中的 NAS 素材、Docker 狀態，甚至直接調用家中的 <strong>AI 大模型算力</strong>來幫忙寫文案或生成圖片，就像人在家裡連著 Wi-Fi 一樣。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/RVW85DnCSIo_225.jpg" /></p><h2>多功能擴充與遠端喚醒的智慧管理</h2><p>除了基礎的虛擬組網，該設備還提供了豐富的實用功能。它配備了 USB 接口，可直連隨身碟或硬碟作為臨時 NAS，並支援<strong>局域網共享列印</strong>。針對高功耗的 AI 算力主機，它還支援<strong>遠端開機（WOL）</strong>，使用者無需讓電腦 24 小時待命，需要時再透過盒子遠端喚醒即可。這種從「連回某台設備」轉變為「進入整個家」的思維轉變，徹底顛覆了傳統的遠端工作方式。</p><hr />
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=RVW85DnCSIo">https://www.youtube.com/watch?v=RVW85DnCSIo</a></p><p>随身携带整个『局域网』是啥体验？！家里的网络环境无感访问、本地AI大模型有了用武之地~</p><p></p><p>时间轴：</p><p>00:00 intro</p><p>00:42 理想化数字分身</p><p>01:52 优雅实现数字分身</p><p>04:24 总结</p>]]>
-      </description>
-      <content:encoded><![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/RVW85DnCSIo/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=RVW85DnCSIo">https://www.youtube.com/watch?v=RVW85DnCSIo</a></p><h1>值得閱讀的理由</h1><ul><li><strong>實現無感內網互聯：</strong>學會如何在不改變使用習慣的情況下，隨身帶走整個家庭局域網，建立專屬的「數位分身」。</li><li><strong>免除公網 IP 限制：</strong>解決許多家庭寬頻沒有公網 IP 的痛點，無需繁瑣的 DDNS 與連接埠映射設定。</li><li><strong>高性價比的組網實踐：</strong>利用低成本硬體建構虛擬局域網，並支援遠端喚醒與檔案共享，完美釋放本地 AI 算力。</li></ul><hr /><h1>摘要</h1><h2>傳統遠端控制的局限與「數位分身」的誕生</h2><p>作者指出，隨著家中的智慧設備、伺服器、工作站與 Docker 服務越來越多，家裡儼然成為一個小型數據中心。然而，傳統上只要一出門，這些設備與內網環境就會斷連。為了解決這個問題，作者提出並實踐了<strong>「數位分身」</strong>的概念。這不是傳統意義上的單一設備遠端控制或單純拷貝檔案，而是讓自己無論身在何處，只要打開電腦，就能無感且直接地進入與家中完全一致的<strong>網路環境</strong>，實現無縫的遠端工作體驗。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/RVW85DnCSIo_112.jpg" /></p><h2>透過 SD-WAN 輕鬆打破物理網路邊界</h2><p>要實現數位分身，傳統方法需要公網 IP 或複雜的網路調試，這對多數人來說門檻極高。作者推薦使用性價比極高的<strong>蒲公英異地組網盒子</strong>，利用其獨家的 <strong>SD-WAN 技術</strong>，將外部設備與家庭內網直接串聯成一個虛擬局域網。這意味著使用者在外也能直接使用內網 IP 存取家中的 NAS 素材、Docker 狀態，甚至直接調用家中的 <strong>AI 大模型算力</strong>來幫忙寫文案或生成圖片，就像人在家裡連著 Wi-Fi 一樣。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/RVW85DnCSIo_225.jpg" /></p><h2>多功能擴充與遠端喚醒的智慧管理</h2><p>除了基礎的虛擬組網，該設備還提供了豐富的實用功能。它配備了 USB 接口，可直連隨身碟或硬碟作為臨時 NAS，並支援<strong>局域網共享列印</strong>。針對高功耗的 AI 算力主機，它還支援<strong>遠端開機（WOL）</strong>，使用者無需讓電腦 24 小時待命，需要時再透過盒子遠端喚醒即可。這種從「連回某台設備」轉變為「進入整個家」的思維轉變，徹底顛覆了傳統的遠端工作方式。</p><hr />
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=RVW85DnCSIo">https://www.youtube.com/watch?v=RVW85DnCSIo</a></p><p>随身携带整个『局域网』是啥体验？！家里的网络环境无感访问、本地AI大模型有了用武之地~</p><p></p><p>时间轴：</p><p>00:00 intro</p><p>00:42 理想化数字分身</p><p>01:52 优雅实现数字分身</p><p>04:24 总结</p>]]></content:encoded>
-      <itunes:image href="https://i.ytimg.com/vi/RVW85DnCSIo/hqdefault.jpg"/>
-      <pubDate>2026-07-10T11:00:04.000Z</pubDate>
     </item></channel>
 </rss>
