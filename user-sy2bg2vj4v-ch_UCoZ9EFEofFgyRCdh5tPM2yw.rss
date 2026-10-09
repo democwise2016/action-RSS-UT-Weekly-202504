@@ -50,6 +50,38 @@ Yeah～～～～～
     </itunes:owner>
     <itunes:image href="https://yt3.ggpht.com/ytc/AIdro_nviGQqv_O82svusTV7z8xye5XVcg7gIVq1ODgOkWDPhbSh=s88-c-k-c0x00ffffff-no-rj"/>
 <item>
+      <title><![CDATA[小巧便携+OpenWRT！卡片Mini路由器GL-MG1300上手！真的小小小~又小又薄！出差党神器？]]></title>
+      <link>https://www.youtube.com/watch?v=gsQ5t4Q3W8E</link>
+      <itunes:title><![CDATA[小巧便携+OpenWRT！卡片Mini路由器GL-MG1300上手！真的小小小~又小又薄！出差党神器？]]></itunes:title>
+      <itunes:author><![CDATA[我是阿皮啊]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/gsQ5t4Q3W8E/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=gsQ5t4Q3W8E">https://www.youtube.com/watch?v=gsQ5t4Q3W8E</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解僅重 100 克、卡片大小的極致便攜 OpenWrt 路由器 GL-MG1300 的外觀與硬體拆解細節。</li><li>掌握多樣化的聯網技巧，特別是出差住飯店時公共 Wi-Fi 的跳轉認證及手機 USB 網路共享功能。</li><li>全面掌握該設備在 Wi-Fi 覆蓋、功耗續航、散熱溫控以及輕量級 NAS 與異地組網的實際性能表現。</li></ul><hr /><h1>摘要</h1><h2>極致小巧外型與核心硬體拆解</h2><p>作者開箱評測了 GL.iNet 推出的 <strong>GL-MG1300</strong>（中文名為芒果 Pro）卡片式便攜路由器。這款設備重量僅有 <strong>100 克</strong>，採用磨砂抗指紋外殼與簡約人體工學設計，極度輕便。機身配備了支援 USB 3.0 的 <strong>USB-C 數據接口</strong>、兩個支援軟體自由切換的<strong>千兆網口</strong>，以及可透過一般行動電源以 5V 供電的 <strong>USB-C 供電接口</strong>。為了在極小體積內平衡散熱與功耗，規格採用 <strong>AC1300（Wi-Fi 5）</strong>。在拆解過程中，作者展示了夾心式金屬被動散熱片與導熱矽膠，並揭露其核心搭載了經典的聯發科 <strong>MT7621 雙核處理器</strong>配合 <strong>MT7615DN</strong> 無線射頻晶片。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/gsQ5t4Q3W8E_162.jpg" /></p><h2>靈活多元的聯網方式與強大系統功能</h2><p>該路由器搭載基於 OpenWrt 22.03 深度客製化的操作介面，兼顧新手友善度與原生 <strong>LuCI 介面</strong>的進階配置需求。設備支援四種連網模式，包含乙太網、蜂巢網路模組、<strong>手機 USB 網路共享</strong>（能有效降低手機發熱並擴大覆蓋範圍），以及最具實用價值的<strong>無線中繼（Repeater）</strong>。在飯店或公共場合，路由器可直接代理完成網頁跳轉認證，免去隨身多台設備逐一認證的麻煩。此外，系統還內建<strong>訪客網路</strong>、<strong>Tailscale 異地組網</strong>、多線負載均衡、IPv6 以及透過 128MB 閃存安裝外掛程式等多種進階功能。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/gsQ5t4Q3W8E_315.jpg" /></p><h2>性能實測、續航散熱與出差場景總結</h2><p>在性能實測環節中，作者測試其 5G 頻段在 600M 寬頻下可輕鬆跑滿，即使在隔牆環境下仍能維持穩定的連線速率。中繼模式下的極限內網吞吐可達 340-350 Mbps，足以應付日常差旅需求。在功耗與溫控方面，日常中繼運作功耗僅約 <strong>2.6W</strong>，滿載時約 <strong>3.6W</strong>，搭配 10000mAh 行動電源可連續運作 <strong>8 至 10 小時</strong>；高負載下機身表面溫度僅達 <strong>48.9℃</strong>，溫控表現優異。外接隨身碟後還能化身傳輸速率約 24MB/s 的隨身輕 NAS。作者總結認為，GL-MG1300 具備高度便攜性與強大系統可玩性，是出差黨、旅居人士與車載網路構建的神器。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=gsQ5t4Q3W8E">https://www.youtube.com/watch?v=gsQ5t4Q3W8E</a></p><p>小小小~又小又薄，出差党应该会很喜欢吧，另外还有OpenWRT系统搭配，支持USB网络共享、热点认证，一起来看看它的实现表现如何~ #glinet #MG1300 #便携路由器 #OpenWrt路由器 #Mango2</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/gsQ5t4Q3W8E/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=gsQ5t4Q3W8E">https://www.youtube.com/watch?v=gsQ5t4Q3W8E</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解僅重 100 克、卡片大小的極致便攜 OpenWrt 路由器 GL-MG1300 的外觀與硬體拆解細節。</li><li>掌握多樣化的聯網技巧，特別是出差住飯店時公共 Wi-Fi 的跳轉認證及手機 USB 網路共享功能。</li><li>全面掌握該設備在 Wi-Fi 覆蓋、功耗續航、散熱溫控以及輕量級 NAS 與異地組網的實際性能表現。</li></ul><hr /><h1>摘要</h1><h2>極致小巧外型與核心硬體拆解</h2><p>作者開箱評測了 GL.iNet 推出的 <strong>GL-MG1300</strong>（中文名為芒果 Pro）卡片式便攜路由器。這款設備重量僅有 <strong>100 克</strong>，採用磨砂抗指紋外殼與簡約人體工學設計，極度輕便。機身配備了支援 USB 3.0 的 <strong>USB-C 數據接口</strong>、兩個支援軟體自由切換的<strong>千兆網口</strong>，以及可透過一般行動電源以 5V 供電的 <strong>USB-C 供電接口</strong>。為了在極小體積內平衡散熱與功耗，規格採用 <strong>AC1300（Wi-Fi 5）</strong>。在拆解過程中，作者展示了夾心式金屬被動散熱片與導熱矽膠，並揭露其核心搭載了經典的聯發科 <strong>MT7621 雙核處理器</strong>配合 <strong>MT7615DN</strong> 無線射頻晶片。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/gsQ5t4Q3W8E_162.jpg" /></p><h2>靈活多元的聯網方式與強大系統功能</h2><p>該路由器搭載基於 OpenWrt 22.03 深度客製化的操作介面，兼顧新手友善度與原生 <strong>LuCI 介面</strong>的進階配置需求。設備支援四種連網模式，包含乙太網、蜂巢網路模組、<strong>手機 USB 網路共享</strong>（能有效降低手機發熱並擴大覆蓋範圍），以及最具實用價值的<strong>無線中繼（Repeater）</strong>。在飯店或公共場合，路由器可直接代理完成網頁跳轉認證，免去隨身多台設備逐一認證的麻煩。此外，系統還內建<strong>訪客網路</strong>、<strong>Tailscale 異地組網</strong>、多線負載均衡、IPv6 以及透過 128MB 閃存安裝外掛程式等多種進階功能。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/gsQ5t4Q3W8E_315.jpg" /></p><h2>性能實測、續航散熱與出差場景總結</h2><p>在性能實測環節中，作者測試其 5G 頻段在 600M 寬頻下可輕鬆跑滿，即使在隔牆環境下仍能維持穩定的連線速率。中繼模式下的極限內網吞吐可達 340-350 Mbps，足以應付日常差旅需求。在功耗與溫控方面，日常中繼運作功耗僅約 <strong>2.6W</strong>，滿載時約 <strong>3.6W</strong>，搭配 10000mAh 行動電源可連續運作 <strong>8 至 10 小時</strong>；高負載下機身表面溫度僅達 <strong>48.9℃</strong>，溫控表現優異。外接隨身碟後還能化身傳輸速率約 24MB/s 的隨身輕 NAS。作者總結認為，GL-MG1300 具備高度便攜性與強大系統可玩性，是出差黨、旅居人士與車載網路構建的神器。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=gsQ5t4Q3W8E">https://www.youtube.com/watch?v=gsQ5t4Q3W8E</a></p><p>小小小~又小又薄，出差党应该会很喜欢吧，另外还有OpenWRT系统搭配，支持USB网络共享、热点认证，一起来看看它的实现表现如何~ #glinet #MG1300 #便携路由器 #OpenWrt路由器 #Mango2</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/gsQ5t4Q3W8E/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=gsQ5t4Q3W8E">https://www.youtube.com/watch?v=gsQ5t4Q3W8E</a></p><h1>值得閱讀的理由</h1><ul><li>深入了解僅重 100 克、卡片大小的極致便攜 OpenWrt 路由器 GL-MG1300 的外觀與硬體拆解細節。</li><li>掌握多樣化的聯網技巧，特別是出差住飯店時公共 Wi-Fi 的跳轉認證及手機 USB 網路共享功能。</li><li>全面掌握該設備在 Wi-Fi 覆蓋、功耗續航、散熱溫控以及輕量級 NAS 與異地組網的實際性能表現。</li></ul><hr /><h1>摘要</h1><h2>極致小巧外型與核心硬體拆解</h2><p>作者開箱評測了 GL.iNet 推出的 <strong>GL-MG1300</strong>（中文名為芒果 Pro）卡片式便攜路由器。這款設備重量僅有 <strong>100 克</strong>，採用磨砂抗指紋外殼與簡約人體工學設計，極度輕便。機身配備了支援 USB 3.0 的 <strong>USB-C 數據接口</strong>、兩個支援軟體自由切換的<strong>千兆網口</strong>，以及可透過一般行動電源以 5V 供電的 <strong>USB-C 供電接口</strong>。為了在極小體積內平衡散熱與功耗，規格採用 <strong>AC1300（Wi-Fi 5）</strong>。在拆解過程中，作者展示了夾心式金屬被動散熱片與導熱矽膠，並揭露其核心搭載了經典的聯發科 <strong>MT7621 雙核處理器</strong>配合 <strong>MT7615DN</strong> 無線射頻晶片。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/gsQ5t4Q3W8E_162.jpg" /></p><h2>靈活多元的聯網方式與強大系統功能</h2><p>該路由器搭載基於 OpenWrt 22.03 深度客製化的操作介面，兼顧新手友善度與原生 <strong>LuCI 介面</strong>的進階配置需求。設備支援四種連網模式，包含乙太網、蜂巢網路模組、<strong>手機 USB 網路共享</strong>（能有效降低手機發熱並擴大覆蓋範圍），以及最具實用價值的<strong>無線中繼（Repeater）</strong>。在飯店或公共場合，路由器可直接代理完成網頁跳轉認證，免去隨身多台設備逐一認證的麻煩。此外，系統還內建<strong>訪客網路</strong>、<strong>Tailscale 異地組網</strong>、多線負載均衡、IPv6 以及透過 128MB 閃存安裝外掛程式等多種進階功能。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/gsQ5t4Q3W8E_315.jpg" /></p><h2>性能實測、續航散熱與出差場景總結</h2><p>在性能實測環節中，作者測試其 5G 頻段在 600M 寬頻下可輕鬆跑滿，即使在隔牆環境下仍能維持穩定的連線速率。中繼模式下的極限內網吞吐可達 340-350 Mbps，足以應付日常差旅需求。在功耗與溫控方面，日常中繼運作功耗僅約 <strong>2.6W</strong>，滿載時約 <strong>3.6W</strong>，搭配 10000mAh 行動電源可連續運作 <strong>8 至 10 小時</strong>；高負載下機身表面溫度僅達 <strong>48.9℃</strong>，溫控表現優異。外接隨身碟後還能化身傳輸速率約 24MB/s 的隨身輕 NAS。作者總結認為，GL-MG1300 具備高度便攜性與強大系統可玩性，是出差黨、旅居人士與車載網路構建的神器。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=gsQ5t4Q3W8E">https://www.youtube.com/watch?v=gsQ5t4Q3W8E</a></p><p>小小小~又小又薄，出差党应该会很喜欢吧，另外还有OpenWRT系统搭配，支持USB网络共享、热点认证，一起来看看它的实现表现如何~ #glinet #MG1300 #便携路由器 #OpenWrt路由器 #Mango2</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/gsQ5t4Q3W8E/hqdefault.jpg"/>
+      <pubDate>2026-10-09T04:27:03.000Z</pubDate>
+    </item><item>
       <title><![CDATA[老车机0成本实现苹果CarPlay 了！一个开源免费软件，闲置手机、平板也能变CarPlay主机！]]></title>
       <link>https://www.youtube.com/watch?v=X8rSEoLEQBM</link>
       <itunes:title><![CDATA[老车机0成本实现苹果CarPlay 了！一个开源免费软件，闲置手机、平板也能变CarPlay主机！]]></itunes:title>
