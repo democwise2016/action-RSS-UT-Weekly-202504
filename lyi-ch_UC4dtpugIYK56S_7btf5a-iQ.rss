@@ -34,6 +34,131 @@
     </itunes:owner>
     <itunes:image href="https://yt3.ggpht.com/2A8k4i7ppGHDnBwzGHIJZ5an_fvHKJ7NpjwCLXrWk003gBVu_Aknt_Fzf-52nXcUA1cInkg9Mg=s88-c-k-c0x00ffffff-no-rj"/>
 <item>
+      <title><![CDATA[为什么说AI正在帮玩家夺回游戏？]]></title>
+      <link>https://www.youtube.com/watch?v=N9gUIGoQnAQ</link>
+      <itunes:title><![CDATA[为什么说AI正在帮玩家夺回游戏？]]></itunes:title>
+      <itunes:author><![CDATA[林亦LYi]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/N9gUIGoQnAQ/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=N9gUIGoQnAQ">https://www.youtube.com/watch?v=N9gUIGoQnAQ</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li>探討遊戲產業從實體光盤時代全面轉向數位授權的轉變，剖析各大廠商（如微軟、索尼等）逐步取消實體光盤與門市背後的商業與成本考量。</li>
+  <li>深入分析玩家在享受數位化便利的同時，如何不知不覺失去了遊戲的轉讓、離線遊玩與長期保存等自主權。</li>
+  <li>介紹當前民間開發者與 AI 技術（如結合逆向工程與 AI 輔助工具）如何試圖打破主機壁壘，幫玩家在 PC 上找回老遊戲的生存空間。</li>
+</ul>
+<hr />
+<h1>摘要</h1>
+
+<h2>一、數位化浪潮與實體時代的消逝</h2>
+<p>
+早期遊戲以實體卡帶或光盤（如 PlayStation 的各代光盤）為主，玩家購買後享有完整的所有權，可以轉借朋友、轉賣二手或數年後重新拿出來遊玩 [[02:31](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=151)]。然而，遊戲廠商為了追求更高的利潤並防止二手市場分潤流失，逐漸推動數位授權與訂閱制 [[02:53](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=173)]。例如微軟曾在 2013 年試圖加上嚴格的 24 小時聯網驗證與二手光盤限制，遭到玩家強烈抵制而暫時妥協 [[01:30](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=90)]。但隨著 Steam 透過便利的數位商店與特價促銷成功「溫水煮青蛙」，數位消費最終成為主流 [[04:19](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=259)]。
+</p>
+<p>
+近年來，索尼等大廠也紛紛轉向數位化。索尼不僅在 PS5 Pro 砍掉內置光區，更宣布將從 2028 年起全面停止生產新遊戲的實體光盤 [[05:01](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=301)]。各大發行商（如 Rockstar 等）也因數位發行能省去壓製、物流、零售商分成，且能有效防止提前洩露與阻斷二手交易，全面擁抱純數位化 [[05:43](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=343)]。這導致玩家雖然買到了便利，卻也失去了對遊戲的真正掌控權 [[06:47](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=407)]。
+</p>
+
+<h2>二、老遊戲的困境與硬體架構的鴻溝</h2>
+<p>
+當數位商城隨時可能關閉、遊戲因伺服器關閉而無法遊玩時，老遊戲的保存成為一大難題 [[04:56](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=296)]。由於跨平臺移植成本高昂，且不同主機與 PC 的底層架構存在巨大差異，廠商往往不願意為銷量有限的老遊戲投入大量工程成本進行優化與重製 [[07:07](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=427)]。在過去，逆向工程需要龐大的人力花費數年時間去解讀行號與亂碼，極其「反人類」 [[11:32](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=692)]。
+</p>
+
+<h2>三、AI 與開源項目的逆襲：幫玩家奪回遊戲</h2>
+<p>
+面對官方的放棄與平臺壁壘，民間開發者開始借助 <strong>AI 技術</strong> 作為強大的「撬棍」來進行逆向工程 [[10:29](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=629)]。例如名為 <strong>enPS5</strong> 等開源專案，嘗試不靠模擬器（模擬器需邊運行邊翻譯，性能負擔重），而是透過靜態重編譯、重鏈接器與自定義系統庫，直接把主機遊戲轉換為 Windows 或 Linux 能識別的格式 [[08:55](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=535)]。
+</p>
+<p>
+在這一過程中，AI（如 Claude Code 等智能體）發揮了關鍵作用，可用於猜測無註釋的反編譯代碼、自動標註函數、自動排查並追蹤 Bug，甚至協助重寫與調試代碼 [[12:28](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=748)]。這使得原本需要一整支專業團隊花費數年才能完成的龐大逆向工程，被壓縮成個人也能嘗試的任務，讓許多經典遊戲有望在 PC 上獲得「永生」 [[14:05](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=845)]。
+</p>
+<p>
+影片網址：[https://www.youtube.com/watch?v=N9gUIGoQnAQ](https://www.youtube.com/watch?v=N9gUIGoQnAQ)
+</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=N9gUIGoQnAQ">https://www.youtube.com/watch?v=N9gUIGoQnAQ</a></p><p>花几百块买的游戏，厂商说关服就关服？当索尼宣布停产实体光盘，民间大神却用AI把PS5大作逆向搬上了PC。在便利的数字时代，到底是谁偷走了我们的游戏“房产证”？</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/N9gUIGoQnAQ/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=N9gUIGoQnAQ">https://www.youtube.com/watch?v=N9gUIGoQnAQ</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li>探討遊戲產業從實體光盤時代全面轉向數位授權的轉變，剖析各大廠商（如微軟、索尼等）逐步取消實體光盤與門市背後的商業與成本考量。</li>
+  <li>深入分析玩家在享受數位化便利的同時，如何不知不覺失去了遊戲的轉讓、離線遊玩與長期保存等自主權。</li>
+  <li>介紹當前民間開發者與 AI 技術（如結合逆向工程與 AI 輔助工具）如何試圖打破主機壁壘，幫玩家在 PC 上找回老遊戲的生存空間。</li>
+</ul>
+<hr />
+<h1>摘要</h1>
+
+<h2>一、數位化浪潮與實體時代的消逝</h2>
+<p>
+早期遊戲以實體卡帶或光盤（如 PlayStation 的各代光盤）為主，玩家購買後享有完整的所有權，可以轉借朋友、轉賣二手或數年後重新拿出來遊玩 [[02:31](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=151)]。然而，遊戲廠商為了追求更高的利潤並防止二手市場分潤流失，逐漸推動數位授權與訂閱制 [[02:53](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=173)]。例如微軟曾在 2013 年試圖加上嚴格的 24 小時聯網驗證與二手光盤限制，遭到玩家強烈抵制而暫時妥協 [[01:30](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=90)]。但隨著 Steam 透過便利的數位商店與特價促銷成功「溫水煮青蛙」，數位消費最終成為主流 [[04:19](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=259)]。
+</p>
+<p>
+近年來，索尼等大廠也紛紛轉向數位化。索尼不僅在 PS5 Pro 砍掉內置光區，更宣布將從 2028 年起全面停止生產新遊戲的實體光盤 [[05:01](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=301)]。各大發行商（如 Rockstar 等）也因數位發行能省去壓製、物流、零售商分成，且能有效防止提前洩露與阻斷二手交易，全面擁抱純數位化 [[05:43](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=343)]。這導致玩家雖然買到了便利，卻也失去了對遊戲的真正掌控權 [[06:47](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=407)]。
+</p>
+
+<h2>二、老遊戲的困境與硬體架構的鴻溝</h2>
+<p>
+當數位商城隨時可能關閉、遊戲因伺服器關閉而無法遊玩時，老遊戲的保存成為一大難題 [[04:56](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=296)]。由於跨平臺移植成本高昂，且不同主機與 PC 的底層架構存在巨大差異，廠商往往不願意為銷量有限的老遊戲投入大量工程成本進行優化與重製 [[07:07](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=427)]。在過去，逆向工程需要龐大的人力花費數年時間去解讀行號與亂碼，極其「反人類」 [[11:32](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=692)]。
+</p>
+
+<h2>三、AI 與開源項目的逆襲：幫玩家奪回遊戲</h2>
+<p>
+面對官方的放棄與平臺壁壘，民間開發者開始借助 <strong>AI 技術</strong> 作為強大的「撬棍」來進行逆向工程 [[10:29](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=629)]。例如名為 <strong>enPS5</strong> 等開源專案，嘗試不靠模擬器（模擬器需邊運行邊翻譯，性能負擔重），而是透過靜態重編譯、重鏈接器與自定義系統庫，直接把主機遊戲轉換為 Windows 或 Linux 能識別的格式 [[08:55](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=535)]。
+</p>
+<p>
+在這一過程中，AI（如 Claude Code 等智能體）發揮了關鍵作用，可用於猜測無註釋的反編譯代碼、自動標註函數、自動排查並追蹤 Bug，甚至協助重寫與調試代碼 [[12:28](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=748)]。這使得原本需要一整支專業團隊花費數年才能完成的龐大逆向工程，被壓縮成個人也能嘗試的任務，讓許多經典遊戲有望在 PC 上獲得「永生」 [[14:05](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=845)]。
+</p>
+<p>
+影片網址：[https://www.youtube.com/watch?v=N9gUIGoQnAQ](https://www.youtube.com/watch?v=N9gUIGoQnAQ)
+</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=N9gUIGoQnAQ">https://www.youtube.com/watch?v=N9gUIGoQnAQ</a></p><p>花几百块买的游戏，厂商说关服就关服？当索尼宣布停产实体光盘，民间大神却用AI把PS5大作逆向搬上了PC。在便利的数字时代，到底是谁偷走了我们的游戏“房产证”？</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/N9gUIGoQnAQ/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=N9gUIGoQnAQ">https://www.youtube.com/watch?v=N9gUIGoQnAQ</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li>探討遊戲產業從實體光盤時代全面轉向數位授權的轉變，剖析各大廠商（如微軟、索尼等）逐步取消實體光盤與門市背後的商業與成本考量。</li>
+  <li>深入分析玩家在享受數位化便利的同時，如何不知不覺失去了遊戲的轉讓、離線遊玩與長期保存等自主權。</li>
+  <li>介紹當前民間開發者與 AI 技術（如結合逆向工程與 AI 輔助工具）如何試圖打破主機壁壘，幫玩家在 PC 上找回老遊戲的生存空間。</li>
+</ul>
+<hr />
+<h1>摘要</h1>
+
+<h2>一、數位化浪潮與實體時代的消逝</h2>
+<p>
+早期遊戲以實體卡帶或光盤（如 PlayStation 的各代光盤）為主，玩家購買後享有完整的所有權，可以轉借朋友、轉賣二手或數年後重新拿出來遊玩 [[02:31](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=151)]。然而，遊戲廠商為了追求更高的利潤並防止二手市場分潤流失，逐漸推動數位授權與訂閱制 [[02:53](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=173)]。例如微軟曾在 2013 年試圖加上嚴格的 24 小時聯網驗證與二手光盤限制，遭到玩家強烈抵制而暫時妥協 [[01:30](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=90)]。但隨著 Steam 透過便利的數位商店與特價促銷成功「溫水煮青蛙」，數位消費最終成為主流 [[04:19](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=259)]。
+</p>
+<p>
+近年來，索尼等大廠也紛紛轉向數位化。索尼不僅在 PS5 Pro 砍掉內置光區，更宣布將從 2028 年起全面停止生產新遊戲的實體光盤 [[05:01](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=301)]。各大發行商（如 Rockstar 等）也因數位發行能省去壓製、物流、零售商分成，且能有效防止提前洩露與阻斷二手交易，全面擁抱純數位化 [[05:43](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=343)]。這導致玩家雖然買到了便利，卻也失去了對遊戲的真正掌控權 [[06:47](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=407)]。
+</p>
+
+<h2>二、老遊戲的困境與硬體架構的鴻溝</h2>
+<p>
+當數位商城隨時可能關閉、遊戲因伺服器關閉而無法遊玩時，老遊戲的保存成為一大難題 [[04:56](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=296)]。由於跨平臺移植成本高昂，且不同主機與 PC 的底層架構存在巨大差異，廠商往往不願意為銷量有限的老遊戲投入大量工程成本進行優化與重製 [[07:07](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=427)]。在過去，逆向工程需要龐大的人力花費數年時間去解讀行號與亂碼，極其「反人類」 [[11:32](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=692)]。
+</p>
+
+<h2>三、AI 與開源項目的逆襲：幫玩家奪回遊戲</h2>
+<p>
+面對官方的放棄與平臺壁壘，民間開發者開始借助 <strong>AI 技術</strong> 作為強大的「撬棍」來進行逆向工程 [[10:29](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=629)]。例如名為 <strong>enPS5</strong> 等開源專案，嘗試不靠模擬器（模擬器需邊運行邊翻譯，性能負擔重），而是透過靜態重編譯、重鏈接器與自定義系統庫，直接把主機遊戲轉換為 Windows 或 Linux 能識別的格式 [[08:55](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=535)]。
+</p>
+<p>
+在這一過程中，AI（如 Claude Code 等智能體）發揮了關鍵作用，可用於猜測無註釋的反編譯代碼、自動標註函數、自動排查並追蹤 Bug，甚至協助重寫與調試代碼 [[12:28](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=748)]。這使得原本需要一整支專業團隊花費數年才能完成的龐大逆向工程，被壓縮成個人也能嘗試的任務，讓許多經典遊戲有望在 PC 上獲得「永生」 [[14:05](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=845)]。
+</p>
+<p>
+影片網址：[https://www.youtube.com/watch?v=N9gUIGoQnAQ](https://www.youtube.com/watch?v=N9gUIGoQnAQ)
+</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=N9gUIGoQnAQ">https://www.youtube.com/watch?v=N9gUIGoQnAQ</a></p><p>花几百块买的游戏，厂商说关服就关服？当索尼宣布停产实体光盘，民间大神却用AI把PS5大作逆向搬上了PC。在便利的数字时代，到底是谁偷走了我们的游戏“房产证”？</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/N9gUIGoQnAQ/hqdefault.jpg"/>
+      <pubDate>2026-10-22T13:00:03.000Z</pubDate>
+    </item><item>
       <title><![CDATA[耳机直连飞书？安克 AI 会议耳机上手体验！]]></title>
       <link>https://www.youtube.com/watch?v=i0B3Z9lhXOw</link>
       <itunes:title><![CDATA[耳机直连飞书？安克 AI 会议耳机上手体验！]]></itunes:title>
@@ -161,37 +286,5 @@
 <p><a href="https://www.youtube.com/watch?v=bdtcitRG17s">https://www.youtube.com/watch?v=bdtcitRG17s</a></p><p>M5 Ultra Mac Studio 实机体验！</p>]]></content:encoded>
       <itunes:image href="https://i.ytimg.com/vi/bdtcitRG17s/hqdefault.jpg"/>
       <pubDate>2026-09-21T14:53:54.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[聊聊最有争议的一场苹果发布会！]]></title>
-      <link>https://www.youtube.com/watch?v=ayXV_QZpvB4</link>
-      <itunes:title><![CDATA[聊聊最有争议的一场苹果发布会！]]></itunes:title>
-      <itunes:author><![CDATA[林亦LYi]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/ayXV_QZpvB4/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=ayXV_QZpvB4">https://www.youtube.com/watch?v=ayXV_QZpvB4</a></p><h1>值得閱讀的理由</h1><ul><li>深入剖析特努斯（John Ternus）接掌蘋果執行長後，品牌策略如何從「Only Apple can do」轉向積極參戰的「Apple can do, too」。</li><li>詳盡解讀台積電 2 奈米 GAA 製程與先進封裝，如何讓 A20 Pro 晶片將電腦級架構與強大端側大模型能力帶入手機。</li><li>全面掌握首款折疊螢幕手機 iPhone Duo 的結構工藝、縮小版動態島、螢幕下鏡頭與可變光圈等硬體革新細節。</li></ul><hr /><h1>摘要</h1><h2>特努斯時代來臨：策略轉變與 A20 Pro 晶片突破</h2><p>作者指出，隨著特努斯（John Ternus）正式接棒執行長，蘋果放下以往身段，策略明顯轉向「Apple can do, too」。今年旗艦 iPhone 搭載的 <strong>A20 Pro 處理器</strong>，直接將源自 Mac 電腦版 M6 晶片的超大核心塞進手機，其關鍵正是台積電跨時代的 <strong>N2 2 奈米 GAA 製程</strong>。蘋果憑藉整合手機、平板與電腦的龐大需求，包下台積電過半產能，在電晶體密度與功耗控制上建立起極大的硬體護城河。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/ayXV_QZpvB4_373.jpg" /></p><p>此外，作者提到 A20 Pro 導入了台積電 <strong>WMCM 先進封裝技術</strong>，將記憶體與處理器並排放置，讓位寬擴充至 96 位元並加大均熱板散熱空間。這不僅讓單核、GPU 跑分與光線追蹤能力大幅飆升，更在端側 AI 實測中讓<strong>千問 3.2 4B 模型</strong>輸出速度大增 51%、首字反應縮短近三成，成功將 iPhone 重新定義為掌控全局的「智慧個人中樞」。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/ayXV_QZpvB4_661.jpg" /></p><h2>折疊新篇章：iPhone Duo 與軟硬體整合體驗</h2><p>發表會的壓軸焦點落在首款折疊螢幕手機 <strong>iPhone Duo</strong>。作者分析，其厚度僅有 5.2 毫米並搭配雙電芯設計；為攻克折痕痛點，蘋果巧妙運用 <strong>AI 演算法配對鉸鏈與外殼的微觀瑕疵</strong>以互補消除不平整，並將原用於高階螢幕的<strong>奈米紋理抗反光技術</strong>下放，從光學上大幅削弱折痕的視覺干擾。在軟體層面，透過動態過渡動畫與 <strong>Liquid Glass（液態玻璃）</strong>側邊欄整合，建立起折疊螢幕專屬的標準 UI 生態。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/ayXV_QZpvB4_1199.jpg" /></p><h2>光學與設計革新：動態島縮小與可變光圈登場</h2><p>作者進一步探討外觀與相機的重大演進。iPhone 18 Pro 系列將<strong>動態島寬度縮減約三分之一</strong>，運用打亂透光通道專利，成功將 Face ID 關鍵元件隱藏於螢幕下。相機系統則四年磨一劍導入了 <strong>f/1.48 至 f/4 的可變光圈</strong>，不僅徹底改善過去固定大光圈錄影缺乏自然動態模糊的數碼感，還顯著提升邊緣成像並大幅壓制鬼影現象。作者總結，特努斯帶領的蘋果展現出敢於打破框架的實事求是風格，先快速跟進成熟技術，再藉由強悍整合力開拓新局。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/ayXV_QZpvB4_1653.jpg" /></p><hr />
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=ayXV_QZpvB4">https://www.youtube.com/watch?v=ayXV_QZpvB4</a></p><p>特努斯正式接棒后的第一场苹果秋季发布会，大家怎么看？A20 Pro 把电脑芯片塞进手机、iPhone Duo 折叠屏千呼万唤始出来、灵动岛缩小心藏屏下摄像头、可变光圈四年磨一剑——从「Only Apple Can Do」到「Apple Can Do, too」，到底是妥协还是觉醒？今天咱们唠唠这个「换个活法」的苹果。</p><p></p><p>章节信息</p><p>00:00 引言</p><p>00:32 A20 Pro</p><p>11:03 折叠屏</p><p>19:59 灵动岛</p><p>22:37 可变光圈</p><p>26:15 结语</p>]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/ayXV_QZpvB4/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=ayXV_QZpvB4">https://www.youtube.com/watch?v=ayXV_QZpvB4</a></p><h1>值得閱讀的理由</h1><ul><li>深入剖析特努斯（John Ternus）接掌蘋果執行長後，品牌策略如何從「Only Apple can do」轉向積極參戰的「Apple can do, too」。</li><li>詳盡解讀台積電 2 奈米 GAA 製程與先進封裝，如何讓 A20 Pro 晶片將電腦級架構與強大端側大模型能力帶入手機。</li><li>全面掌握首款折疊螢幕手機 iPhone Duo 的結構工藝、縮小版動態島、螢幕下鏡頭與可變光圈等硬體革新細節。</li></ul><hr /><h1>摘要</h1><h2>特努斯時代來臨：策略轉變與 A20 Pro 晶片突破</h2><p>作者指出，隨著特努斯（John Ternus）正式接棒執行長，蘋果放下以往身段，策略明顯轉向「Apple can do, too」。今年旗艦 iPhone 搭載的 <strong>A20 Pro 處理器</strong>，直接將源自 Mac 電腦版 M6 晶片的超大核心塞進手機，其關鍵正是台積電跨時代的 <strong>N2 2 奈米 GAA 製程</strong>。蘋果憑藉整合手機、平板與電腦的龐大需求，包下台積電過半產能，在電晶體密度與功耗控制上建立起極大的硬體護城河。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/ayXV_QZpvB4_373.jpg" /></p><p>此外，作者提到 A20 Pro 導入了台積電 <strong>WMCM 先進封裝技術</strong>，將記憶體與處理器並排放置，讓位寬擴充至 96 位元並加大均熱板散熱空間。這不僅讓單核、GPU 跑分與光線追蹤能力大幅飆升，更在端側 AI 實測中讓<strong>千問 3.2 4B 模型</strong>輸出速度大增 51%、首字反應縮短近三成，成功將 iPhone 重新定義為掌控全局的「智慧個人中樞」。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/ayXV_QZpvB4_661.jpg" /></p><h2>折疊新篇章：iPhone Duo 與軟硬體整合體驗</h2><p>發表會的壓軸焦點落在首款折疊螢幕手機 <strong>iPhone Duo</strong>。作者分析，其厚度僅有 5.2 毫米並搭配雙電芯設計；為攻克折痕痛點，蘋果巧妙運用 <strong>AI 演算法配對鉸鏈與外殼的微觀瑕疵</strong>以互補消除不平整，並將原用於高階螢幕的<strong>奈米紋理抗反光技術</strong>下放，從光學上大幅削弱折痕的視覺干擾。在軟體層面，透過動態過渡動畫與 <strong>Liquid Glass（液態玻璃）</strong>側邊欄整合，建立起折疊螢幕專屬的標準 UI 生態。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/ayXV_QZpvB4_1199.jpg" /></p><h2>光學與設計革新：動態島縮小與可變光圈登場</h2><p>作者進一步探討外觀與相機的重大演進。iPhone 18 Pro 系列將<strong>動態島寬度縮減約三分之一</strong>，運用打亂透光通道專利，成功將 Face ID 關鍵元件隱藏於螢幕下。相機系統則四年磨一劍導入了 <strong>f/1.48 至 f/4 的可變光圈</strong>，不僅徹底改善過去固定大光圈錄影缺乏自然動態模糊的數碼感，還顯著提升邊緣成像並大幅壓制鬼影現象。作者總結，特努斯帶領的蘋果展現出敢於打破框架的實事求是風格，先快速跟進成熟技術，再藉由強悍整合力開拓新局。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/ayXV_QZpvB4_1653.jpg" /></p><hr />
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=ayXV_QZpvB4">https://www.youtube.com/watch?v=ayXV_QZpvB4</a></p><p>特努斯正式接棒后的第一场苹果秋季发布会，大家怎么看？A20 Pro 把电脑芯片塞进手机、iPhone Duo 折叠屏千呼万唤始出来、灵动岛缩小心藏屏下摄像头、可变光圈四年磨一剑——从「Only Apple Can Do」到「Apple Can Do, too」，到底是妥协还是觉醒？今天咱们唠唠这个「换个活法」的苹果。</p><p></p><p>章节信息</p><p>00:00 引言</p><p>00:32 A20 Pro</p><p>11:03 折叠屏</p><p>19:59 灵动岛</p><p>22:37 可变光圈</p><p>26:15 结语</p>]]>
-      </description>
-      <content:encoded><![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/ayXV_QZpvB4/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=ayXV_QZpvB4">https://www.youtube.com/watch?v=ayXV_QZpvB4</a></p><h1>值得閱讀的理由</h1><ul><li>深入剖析特努斯（John Ternus）接掌蘋果執行長後，品牌策略如何從「Only Apple can do」轉向積極參戰的「Apple can do, too」。</li><li>詳盡解讀台積電 2 奈米 GAA 製程與先進封裝，如何讓 A20 Pro 晶片將電腦級架構與強大端側大模型能力帶入手機。</li><li>全面掌握首款折疊螢幕手機 iPhone Duo 的結構工藝、縮小版動態島、螢幕下鏡頭與可變光圈等硬體革新細節。</li></ul><hr /><h1>摘要</h1><h2>特努斯時代來臨：策略轉變與 A20 Pro 晶片突破</h2><p>作者指出，隨著特努斯（John Ternus）正式接棒執行長，蘋果放下以往身段，策略明顯轉向「Apple can do, too」。今年旗艦 iPhone 搭載的 <strong>A20 Pro 處理器</strong>，直接將源自 Mac 電腦版 M6 晶片的超大核心塞進手機，其關鍵正是台積電跨時代的 <strong>N2 2 奈米 GAA 製程</strong>。蘋果憑藉整合手機、平板與電腦的龐大需求，包下台積電過半產能，在電晶體密度與功耗控制上建立起極大的硬體護城河。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/ayXV_QZpvB4_373.jpg" /></p><p>此外，作者提到 A20 Pro 導入了台積電 <strong>WMCM 先進封裝技術</strong>，將記憶體與處理器並排放置，讓位寬擴充至 96 位元並加大均熱板散熱空間。這不僅讓單核、GPU 跑分與光線追蹤能力大幅飆升，更在端側 AI 實測中讓<strong>千問 3.2 4B 模型</strong>輸出速度大增 51%、首字反應縮短近三成，成功將 iPhone 重新定義為掌控全局的「智慧個人中樞」。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/ayXV_QZpvB4_661.jpg" /></p><h2>折疊新篇章：iPhone Duo 與軟硬體整合體驗</h2><p>發表會的壓軸焦點落在首款折疊螢幕手機 <strong>iPhone Duo</strong>。作者分析，其厚度僅有 5.2 毫米並搭配雙電芯設計；為攻克折痕痛點，蘋果巧妙運用 <strong>AI 演算法配對鉸鏈與外殼的微觀瑕疵</strong>以互補消除不平整，並將原用於高階螢幕的<strong>奈米紋理抗反光技術</strong>下放，從光學上大幅削弱折痕的視覺干擾。在軟體層面，透過動態過渡動畫與 <strong>Liquid Glass（液態玻璃）</strong>側邊欄整合，建立起折疊螢幕專屬的標準 UI 生態。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/ayXV_QZpvB4_1199.jpg" /></p><h2>光學與設計革新：動態島縮小與可變光圈登場</h2><p>作者進一步探討外觀與相機的重大演進。iPhone 18 Pro 系列將<strong>動態島寬度縮減約三分之一</strong>，運用打亂透光通道專利，成功將 Face ID 關鍵元件隱藏於螢幕下。相機系統則四年磨一劍導入了 <strong>f/1.48 至 f/4 的可變光圈</strong>，不僅徹底改善過去固定大光圈錄影缺乏自然動態模糊的數碼感，還顯著提升邊緣成像並大幅壓制鬼影現象。作者總結，特努斯帶領的蘋果展現出敢於打破框架的實事求是風格，先快速跟進成熟技術，再藉由強悍整合力開拓新局。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/ayXV_QZpvB4_1653.jpg" /></p><hr />
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=ayXV_QZpvB4">https://www.youtube.com/watch?v=ayXV_QZpvB4</a></p><p>特努斯正式接棒后的第一场苹果秋季发布会，大家怎么看？A20 Pro 把电脑芯片塞进手机、iPhone Duo 折叠屏千呼万唤始出来、灵动岛缩小心藏屏下摄像头、可变光圈四年磨一剑——从「Only Apple Can Do」到「Apple Can Do, too」，到底是妥协还是觉醒？今天咱们唠唠这个「换个活法」的苹果。</p><p></p><p>章节信息</p><p>00:00 引言</p><p>00:32 A20 Pro</p><p>11:03 折叠屏</p><p>19:59 灵动岛</p><p>22:37 可变光圈</p><p>26:15 结语</p>]]></content:encoded>
-      <itunes:image href="https://i.ytimg.com/vi/ayXV_QZpvB4/hqdefault.jpg"/>
-      <pubDate>2026-09-16T14:15:08.000Z</pubDate>
     </item></channel>
 </rss>
