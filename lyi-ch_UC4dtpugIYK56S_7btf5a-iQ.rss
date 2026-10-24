@@ -34,6 +34,89 @@
     </itunes:owner>
     <itunes:image href="https://yt3.ggpht.com/2A8k4i7ppGHDnBwzGHIJZ5an_fvHKJ7NpjwCLXrWk003gBVu_Aknt_Fzf-52nXcUA1cInkg9Mg=s88-c-k-c0x00ffffff-no-rj"/>
 <item>
+      <title><![CDATA[英伟达+128GB，能打败苹果吗？]]></title>
+      <link>https://www.youtube.com/watch?v=Pc-Mh4G0d_g</link>
+      <itunes:title><![CDATA[英伟达+128GB，能打败苹果吗？]]></itunes:title>
+      <itunes:author><![CDATA[林亦LYi]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/Pc-Mh4G0d_g/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=Pc-Mh4G0d_g">https://www.youtube.com/watch?v=Pc-Mh4G0d_g</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li>深入評測搭載 NVIDIA 晶片與 128GB 統一記憶體的高階輕薄筆電（以聯想 Yoga Pro 15 RTX Spark 為例），解析其在本地 AI 推理、圖形生成與智能體（Agent）應用上的實際效能。</li>
+  <li>與蘋果高階晶片（如 M5 Max 系列）在各項大型語言模型、影片生成及本地 AI 框架優化上的實測對比，為關注硬體發展與 AI 開發者提供第一手數據。</li>
+  <li>探討在未連網的狀態下，純本地 AI 運算如何處理如長文本分析、自動生成簡報（PPT）以及工具調用等高難度任務，展現個人電腦結合 AI 的全新可能。</li>
+</ul>
+<hr />
+<h1>摘要</h1>
+<p>影片開頭介紹了黃仁勳提出的「重新發明個人電腦」概念，並以搭載 RTX Spark 晶片及 128GB 統一記憶體的輕薄筆電進行全方位實測。硬體架構上，該方案透過 NVLink 進行 C2C 連接，能訪問同一組 128GB LPDDR5X 統一記憶體，允許使用者透過 NVIDIA App 調節專用 GPU 佔比高達 96GB，以滿足大型 AI 模型的顯存需求。雖然在功耗壓低至 80W 的情況下，其 CPU 與極限峰值性能與部分對手存在差距，但在 AI 應用場景中展現出強悍實力。</p>
+
+<h2>本地 AI 模型與智慧體（Agent）表現</h2>
+<p>在基準測試中，測試團隊選用了 Q4 量化版的千問 3.827B 多模態模型進行實測。在模擬真實智能體任務的 Agent Perf Local 測試中，RTX Spark 憑藉持續解碼的優勢，完成任務的速度比對照組快了近 1.5 倍。隨後實際接入 WorkBuddy 智能體進行本地工作測試，在完全未連網的飛機上，成功讓本地 AI 讀取舊有會議記錄並在約 20 分鐘內自動生成高完成度的簡報（PPT）。此外，它還能透過 NVIDIA Broadcast 的 AI 接口自動編寫代碼並手動繪製專業的視訊會議背景圖，展現極強的自主解決問題能力。</p>
+
+<h2>生圖、影片生成與遊戲效能</h2>
+<p>在本地生成圖片與影片方面，透過 ComfyUI 測試 Flux 模型，經過專門針對 Blackwell 架構優化的 NVFP4 格式運行速度極快，平均生成僅需約 6 秒。而在生成 10 秒影片（如馬斯克 Roadster 火箭分離降落火星）的極端測試中，128GB 統一記憶體幾乎全滿，耗時 14 分鐘完成。遊戲表現方面，在開啟光線追蹤與 DLSS 的情況下，多款 3A 大作平均幀率皆可跑到 130 幀以上，具備一定的日常遊戲娛樂能力。</p>
+
+<p>總結而言，這類大容量統一記憶體與強大本地 AI 支援的輕薄筆電，為開發者和專業用戶帶來了巨大的想像空間，也標誌著個人電腦在處理複雜專業任務時邁入全新的階段。</p>
+<p><a href="[http://www.youtube.com/watch?v=Pc-Mh4G0d_g](http://www.youtube.com/watch?v=Pc-Mh4G0d_g)">[http://www.youtube.com/watch?v=Pc-Mh4G0d_g](http://www.youtube.com/watch?v=Pc-Mh4G0d_g)</a></p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=Pc-Mh4G0d_g">https://www.youtube.com/watch?v=Pc-Mh4G0d_g</a></p><p>这次我们收到了拥有128GB统一内存的联想 YOGA Pro 15 RTX Spark，拿它测试了包括本地智能体、AIGC创作在内的各种本地AI任务。这会是如今纯度最高的AI笔记本吗？让我们一起看看吧！</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/Pc-Mh4G0d_g/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=Pc-Mh4G0d_g">https://www.youtube.com/watch?v=Pc-Mh4G0d_g</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li>深入評測搭載 NVIDIA 晶片與 128GB 統一記憶體的高階輕薄筆電（以聯想 Yoga Pro 15 RTX Spark 為例），解析其在本地 AI 推理、圖形生成與智能體（Agent）應用上的實際效能。</li>
+  <li>與蘋果高階晶片（如 M5 Max 系列）在各項大型語言模型、影片生成及本地 AI 框架優化上的實測對比，為關注硬體發展與 AI 開發者提供第一手數據。</li>
+  <li>探討在未連網的狀態下，純本地 AI 運算如何處理如長文本分析、自動生成簡報（PPT）以及工具調用等高難度任務，展現個人電腦結合 AI 的全新可能。</li>
+</ul>
+<hr />
+<h1>摘要</h1>
+<p>影片開頭介紹了黃仁勳提出的「重新發明個人電腦」概念，並以搭載 RTX Spark 晶片及 128GB 統一記憶體的輕薄筆電進行全方位實測。硬體架構上，該方案透過 NVLink 進行 C2C 連接，能訪問同一組 128GB LPDDR5X 統一記憶體，允許使用者透過 NVIDIA App 調節專用 GPU 佔比高達 96GB，以滿足大型 AI 模型的顯存需求。雖然在功耗壓低至 80W 的情況下，其 CPU 與極限峰值性能與部分對手存在差距，但在 AI 應用場景中展現出強悍實力。</p>
+
+<h2>本地 AI 模型與智慧體（Agent）表現</h2>
+<p>在基準測試中，測試團隊選用了 Q4 量化版的千問 3.827B 多模態模型進行實測。在模擬真實智能體任務的 Agent Perf Local 測試中，RTX Spark 憑藉持續解碼的優勢，完成任務的速度比對照組快了近 1.5 倍。隨後實際接入 WorkBuddy 智能體進行本地工作測試，在完全未連網的飛機上，成功讓本地 AI 讀取舊有會議記錄並在約 20 分鐘內自動生成高完成度的簡報（PPT）。此外，它還能透過 NVIDIA Broadcast 的 AI 接口自動編寫代碼並手動繪製專業的視訊會議背景圖，展現極強的自主解決問題能力。</p>
+
+<h2>生圖、影片生成與遊戲效能</h2>
+<p>在本地生成圖片與影片方面，透過 ComfyUI 測試 Flux 模型，經過專門針對 Blackwell 架構優化的 NVFP4 格式運行速度極快，平均生成僅需約 6 秒。而在生成 10 秒影片（如馬斯克 Roadster 火箭分離降落火星）的極端測試中，128GB 統一記憶體幾乎全滿，耗時 14 分鐘完成。遊戲表現方面，在開啟光線追蹤與 DLSS 的情況下，多款 3A 大作平均幀率皆可跑到 130 幀以上，具備一定的日常遊戲娛樂能力。</p>
+
+<p>總結而言，這類大容量統一記憶體與強大本地 AI 支援的輕薄筆電，為開發者和專業用戶帶來了巨大的想像空間，也標誌著個人電腦在處理複雜專業任務時邁入全新的階段。</p>
+<p><a href="[http://www.youtube.com/watch?v=Pc-Mh4G0d_g](http://www.youtube.com/watch?v=Pc-Mh4G0d_g)">[http://www.youtube.com/watch?v=Pc-Mh4G0d_g](http://www.youtube.com/watch?v=Pc-Mh4G0d_g)</a></p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=Pc-Mh4G0d_g">https://www.youtube.com/watch?v=Pc-Mh4G0d_g</a></p><p>这次我们收到了拥有128GB统一内存的联想 YOGA Pro 15 RTX Spark，拿它测试了包括本地智能体、AIGC创作在内的各种本地AI任务。这会是如今纯度最高的AI笔记本吗？让我们一起看看吧！</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/Pc-Mh4G0d_g/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=Pc-Mh4G0d_g">https://www.youtube.com/watch?v=Pc-Mh4G0d_g</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li>深入評測搭載 NVIDIA 晶片與 128GB 統一記憶體的高階輕薄筆電（以聯想 Yoga Pro 15 RTX Spark 為例），解析其在本地 AI 推理、圖形生成與智能體（Agent）應用上的實際效能。</li>
+  <li>與蘋果高階晶片（如 M5 Max 系列）在各項大型語言模型、影片生成及本地 AI 框架優化上的實測對比，為關注硬體發展與 AI 開發者提供第一手數據。</li>
+  <li>探討在未連網的狀態下，純本地 AI 運算如何處理如長文本分析、自動生成簡報（PPT）以及工具調用等高難度任務，展現個人電腦結合 AI 的全新可能。</li>
+</ul>
+<hr />
+<h1>摘要</h1>
+<p>影片開頭介紹了黃仁勳提出的「重新發明個人電腦」概念，並以搭載 RTX Spark 晶片及 128GB 統一記憶體的輕薄筆電進行全方位實測。硬體架構上，該方案透過 NVLink 進行 C2C 連接，能訪問同一組 128GB LPDDR5X 統一記憶體，允許使用者透過 NVIDIA App 調節專用 GPU 佔比高達 96GB，以滿足大型 AI 模型的顯存需求。雖然在功耗壓低至 80W 的情況下，其 CPU 與極限峰值性能與部分對手存在差距，但在 AI 應用場景中展現出強悍實力。</p>
+
+<h2>本地 AI 模型與智慧體（Agent）表現</h2>
+<p>在基準測試中，測試團隊選用了 Q4 量化版的千問 3.827B 多模態模型進行實測。在模擬真實智能體任務的 Agent Perf Local 測試中，RTX Spark 憑藉持續解碼的優勢，完成任務的速度比對照組快了近 1.5 倍。隨後實際接入 WorkBuddy 智能體進行本地工作測試，在完全未連網的飛機上，成功讓本地 AI 讀取舊有會議記錄並在約 20 分鐘內自動生成高完成度的簡報（PPT）。此外，它還能透過 NVIDIA Broadcast 的 AI 接口自動編寫代碼並手動繪製專業的視訊會議背景圖，展現極強的自主解決問題能力。</p>
+
+<h2>生圖、影片生成與遊戲效能</h2>
+<p>在本地生成圖片與影片方面，透過 ComfyUI 測試 Flux 模型，經過專門針對 Blackwell 架構優化的 NVFP4 格式運行速度極快，平均生成僅需約 6 秒。而在生成 10 秒影片（如馬斯克 Roadster 火箭分離降落火星）的極端測試中，128GB 統一記憶體幾乎全滿，耗時 14 分鐘完成。遊戲表現方面，在開啟光線追蹤與 DLSS 的情況下，多款 3A 大作平均幀率皆可跑到 130 幀以上，具備一定的日常遊戲娛樂能力。</p>
+
+<p>總結而言，這類大容量統一記憶體與強大本地 AI 支援的輕薄筆電，為開發者和專業用戶帶來了巨大的想像空間，也標誌著個人電腦在處理複雜專業任務時邁入全新的階段。</p>
+<p><a href="[http://www.youtube.com/watch?v=Pc-Mh4G0d_g](http://www.youtube.com/watch?v=Pc-Mh4G0d_g)">[http://www.youtube.com/watch?v=Pc-Mh4G0d_g](http://www.youtube.com/watch?v=Pc-Mh4G0d_g)</a></p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=Pc-Mh4G0d_g">https://www.youtube.com/watch?v=Pc-Mh4G0d_g</a></p><p>这次我们收到了拥有128GB统一内存的联想 YOGA Pro 15 RTX Spark，拿它测试了包括本地智能体、AIGC创作在内的各种本地AI任务。这会是如今纯度最高的AI笔记本吗？让我们一起看看吧！</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/Pc-Mh4G0d_g/hqdefault.jpg"/>
+      <pubDate>2026-10-24T04:00:26.000Z</pubDate>
+    </item><item>
       <title><![CDATA[为什么说AI正在帮玩家夺回游戏？]]></title>
       <link>https://www.youtube.com/watch?v=N9gUIGoQnAQ</link>
       <itunes:title><![CDATA[为什么说AI正在帮玩家夺回游戏？]]></itunes:title>
@@ -254,37 +337,5 @@
 <p><a href="https://www.youtube.com/watch?v=7g0O0E8RcgA">https://www.youtube.com/watch?v=7g0O0E8RcgA</a></p><p>这次，我们用荣耀 YOYO 给办公室的猫做了套“科学养猫系统”。从买猫粮到洗澡排期，看看当 AI 真正进入操作系统后，一部手机已经能替我们把事情做到什么程度？</p><p></p><p>章节信息</p><p>00:00 引言</p><p>1:13 YOYO操控手机</p><p>3:09 YOYO主动记日程</p><p>4:08 YOYO任务</p><p>4:41 通话助理</p><p>5:42 跨品牌互联</p><p>6:24 内容创作助手</p><p>7:11 克隆省空间</p><p>7:47 结论</p>]]></content:encoded>
       <itunes:image href="https://i.ytimg.com/vi/7g0O0E8RcgA/hqdefault.jpg"/>
       <pubDate>2026-09-28T12:00:04.000Z</pubDate>
-    </item><item>
-      <title><![CDATA[十万元的苹果电脑，AI时代的版本答案？]]></title>
-      <link>https://www.youtube.com/watch?v=bdtcitRG17s</link>
-      <itunes:title><![CDATA[十万元的苹果电脑，AI时代的版本答案？]]></itunes:title>
-      <itunes:author><![CDATA[林亦LYi]]></itunes:author>
-      <itunes:summary>
-        <![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/bdtcitRG17s/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=bdtcitRG17s">https://www.youtube.com/watch?v=bdtcitRG17s</a></p><h1>值得閱讀的理由</h1><ul><li>瞭解 <strong>M5 Ultra Mac Studio</strong> 在頂級硬體規格與架構升級上的實際表現。</li><li>掌握最新 Apple 晶片在 <strong>AI 本地大模型推論</strong>（如千問模型、預填充與解碼速度）的極致效能與並發能力。</li><li>深入對比其與 <strong>x86 旗艦處理器、頂級顯示卡</strong>在 3D 渲染、影片創作與遊戲光追實測中的戰力差距。</li></ul><hr /><h1>摘要</h1><h2>次世代規格躍升與 AI 算力突破</h2><p>作者開箱並實測了搭載 <strong>M5 Ultra</strong> 的全新 Mac Studio，儘管造價不斐，但在高頻寬記憶體居高不下的市場背景下，其性價比依舊顯著。硬體上，CPU 核心提升至 <strong>36 核心</strong>，GPU 雖然維持 80 核但升級了架構並引進全新<strong>神經網路加速器</strong>，記憶體頻寬更飆升至每秒 <strong>1.2TB</strong>。在搭載 <strong>PCIe 5.0 SSD</strong> 的加持下，模型載入時間縮短一半，實測千問 3.8 大模型的預填充速度更是達到每秒 <strong>1808 tokens</strong>，文字生成與首字延遲表現極為驚人。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/bdtcitRG17s_162.jpg" /></p><h2>CPU 與 GPU 效能全面看齊頂級工作站</h2><p>作者透過 Geekbench 與 Cinebench 進行處理器與圖像渲染跑分，發現 <strong>M5 Ultra</strong> 在單核表現已與 AMD 頂級消費旗艦 <strong>9950X3D</strong> 齊平，多核分數更逼近要價高昂的 <strong>Threadripper 9970X</strong> 與伺服器處理器，而功耗卻僅有傳統工作站的四分之一。在 GPU 渲染方面，Cinebench 2026 與 Blender 實測均展現了驚人增幅，部分渲染任務比前代提升高達 <strong>85.3%</strong>，效能介於 RTX 5080 與 5090 之間。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/bdtcitRG17s_317.jpg" /></p><h2>光追遊戲實測與個人 AI 生產力革命</h2><p>在遊戲與光追極限實測中，作者執行了《<strong>電馭叛客 2077</strong>》在 4K 超級光追預設環境下的表現，M5 Ultra 的平均幀數相比前代大幅暴漲 <strong>82.8%</strong>，印證了第三代硬體光追單元與神經加速器的實力。作者總結，Mac Studio 與 macOS 打造了極其適合 <strong>AI 智慧體</strong> 與創意工作者長期棲息的環境，讓高算力設備從 單純跑分轉變為真正協助團隊高效產出、釋放生產力的強大助手。</p><hr />
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=bdtcitRG17s">https://www.youtube.com/watch?v=bdtcitRG17s</a></p><p>M5 Ultra Mac Studio 实机体验！</p>]]>
-      </itunes:summary>
-      <description>
-        <![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/bdtcitRG17s/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=bdtcitRG17s">https://www.youtube.com/watch?v=bdtcitRG17s</a></p><h1>值得閱讀的理由</h1><ul><li>瞭解 <strong>M5 Ultra Mac Studio</strong> 在頂級硬體規格與架構升級上的實際表現。</li><li>掌握最新 Apple 晶片在 <strong>AI 本地大模型推論</strong>（如千問模型、預填充與解碼速度）的極致效能與並發能力。</li><li>深入對比其與 <strong>x86 旗艦處理器、頂級顯示卡</strong>在 3D 渲染、影片創作與遊戲光追實測中的戰力差距。</li></ul><hr /><h1>摘要</h1><h2>次世代規格躍升與 AI 算力突破</h2><p>作者開箱並實測了搭載 <strong>M5 Ultra</strong> 的全新 Mac Studio，儘管造價不斐，但在高頻寬記憶體居高不下的市場背景下，其性價比依舊顯著。硬體上，CPU 核心提升至 <strong>36 核心</strong>，GPU 雖然維持 80 核但升級了架構並引進全新<strong>神經網路加速器</strong>，記憶體頻寬更飆升至每秒 <strong>1.2TB</strong>。在搭載 <strong>PCIe 5.0 SSD</strong> 的加持下，模型載入時間縮短一半，實測千問 3.8 大模型的預填充速度更是達到每秒 <strong>1808 tokens</strong>，文字生成與首字延遲表現極為驚人。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/bdtcitRG17s_162.jpg" /></p><h2>CPU 與 GPU 效能全面看齊頂級工作站</h2><p>作者透過 Geekbench 與 Cinebench 進行處理器與圖像渲染跑分，發現 <strong>M5 Ultra</strong> 在單核表現已與 AMD 頂級消費旗艦 <strong>9950X3D</strong> 齊平，多核分數更逼近要價高昂的 <strong>Threadripper 9970X</strong> 與伺服器處理器，而功耗卻僅有傳統工作站的四分之一。在 GPU 渲染方面，Cinebench 2026 與 Blender 實測均展現了驚人增幅，部分渲染任務比前代提升高達 <strong>85.3%</strong>，效能介於 RTX 5080 與 5090 之間。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/bdtcitRG17s_317.jpg" /></p><h2>光追遊戲實測與個人 AI 生產力革命</h2><p>在遊戲與光追極限實測中，作者執行了《<strong>電馭叛客 2077</strong>》在 4K 超級光追預設環境下的表現，M5 Ultra 的平均幀數相比前代大幅暴漲 <strong>82.8%</strong>，印證了第三代硬體光追單元與神經加速器的實力。作者總結，Mac Studio 與 macOS 打造了極其適合 <strong>AI 智慧體</strong> 與創意工作者長期棲息的環境，讓高算力設備從 單純跑分轉變為真正協助團隊高效產出、釋放生產力的強大助手。</p><hr />
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=bdtcitRG17s">https://www.youtube.com/watch?v=bdtcitRG17s</a></p><p>M5 Ultra Mac Studio 实机体验！</p>]]>
-      </description>
-      <content:encoded><![CDATA[<hr style="clear:both" />
-
-<p><img src="https://img.youtube.com/vi/bdtcitRG17s/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=bdtcitRG17s">https://www.youtube.com/watch?v=bdtcitRG17s</a></p><h1>值得閱讀的理由</h1><ul><li>瞭解 <strong>M5 Ultra Mac Studio</strong> 在頂級硬體規格與架構升級上的實際表現。</li><li>掌握最新 Apple 晶片在 <strong>AI 本地大模型推論</strong>（如千問模型、預填充與解碼速度）的極致效能與並發能力。</li><li>深入對比其與 <strong>x86 旗艦處理器、頂級顯示卡</strong>在 3D 渲染、影片創作與遊戲光追實測中的戰力差距。</li></ul><hr /><h1>摘要</h1><h2>次世代規格躍升與 AI 算力突破</h2><p>作者開箱並實測了搭載 <strong>M5 Ultra</strong> 的全新 Mac Studio，儘管造價不斐，但在高頻寬記憶體居高不下的市場背景下，其性價比依舊顯著。硬體上，CPU 核心提升至 <strong>36 核心</strong>，GPU 雖然維持 80 核但升級了架構並引進全新<strong>神經網路加速器</strong>，記憶體頻寬更飆升至每秒 <strong>1.2TB</strong>。在搭載 <strong>PCIe 5.0 SSD</strong> 的加持下，模型載入時間縮短一半，實測千問 3.8 大模型的預填充速度更是達到每秒 <strong>1808 tokens</strong>，文字生成與首字延遲表現極為驚人。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/bdtcitRG17s_162.jpg" /></p><h2>CPU 與 GPU 效能全面看齊頂級工作站</h2><p>作者透過 Geekbench 與 Cinebench 進行處理器與圖像渲染跑分，發現 <strong>M5 Ultra</strong> 在單核表現已與 AMD 頂級消費旗艦 <strong>9950X3D</strong> 齊平，多核分數更逼近要價高昂的 <strong>Threadripper 9970X</strong> 與伺服器處理器，而功耗卻僅有傳統工作站的四分之一。在 GPU 渲染方面，Cinebench 2026 與 Blender 實測均展現了驚人增幅，部分渲染任務比前代提升高達 <strong>85.3%</strong>，效能介於 RTX 5080 與 5090 之間。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/bdtcitRG17s_317.jpg" /></p><h2>光追遊戲實測與個人 AI 生產力革命</h2><p>在遊戲與光追極限實測中，作者執行了《<strong>電馭叛客 2077</strong>》在 4K 超級光追預設環境下的表現，M5 Ultra 的平均幀數相比前代大幅暴漲 <strong>82.8%</strong>，印證了第三代硬體光追單元與神經加速器的實力。作者總結，Mac Studio 與 macOS 打造了極其適合 <strong>AI 智慧體</strong> 與創意工作者長期棲息的環境，讓高算力設備從 單純跑分轉變為真正協助團隊高效產出、釋放生產力的強大助手。</p><hr />
-
-<hr style="clear:both" />
-=============
-<p><a href="https://www.youtube.com/watch?v=bdtcitRG17s">https://www.youtube.com/watch?v=bdtcitRG17s</a></p><p>M5 Ultra Mac Studio 实机体验！</p>]]></content:encoded>
-      <itunes:image href="https://i.ytimg.com/vi/bdtcitRG17s/hqdefault.jpg"/>
-      <pubDate>2026-09-21T14:53:54.000Z</pubDate>
     </item></channel>
 </rss>
