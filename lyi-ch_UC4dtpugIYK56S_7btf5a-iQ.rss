@@ -1,0 +1,341 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[林亦LYi 聊 3C[YT+]]]></title>
+    <link>http://www.youtube.com/feeds/videos.xml?channel_id=UC4dtpugIYK56S_7btf5a-iQ</link>
+    <image>
+      <url>https://yt3.ggpht.com/2A8k4i7ppGHDnBwzGHIJZ5an_fvHKJ7NpjwCLXrWk003gBVu_Aknt_Fzf-52nXcUA1cInkg9Mg=s88-c-k-c0x00ffffff-no-rj</url>
+      <title>林亦LYi 聊 3C[YT+]</title>
+      <link>http://www.youtube.com/feeds/videos.xml?channel_id=UC4dtpugIYK56S_7btf5a-iQ</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="https://www.youtube.com/feeds/videos.xml?channel_id=UC4dtpugIYK56S_7btf5a-iQ" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[林亦LYi 聊 3C[YT+]]]></copyright>
+    <itunes:author><![CDATA[林亦LYi 聊 3C[YT+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      做一点微小的科技工作。全网同名账号：林亦LYi
+商务合作：business@lyi.ai
+个人邮箱：linyi@lyi.ai<br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC4dtpugIYK56S_7btf5a-iQ" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UC4dtpugIYK56S_7btf5a-iQ</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      做一点微小的科技工作。全网同名账号：林亦LYi
+商务合作：business@lyi.ai
+个人邮箱：linyi@lyi.ai<br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UC4dtpugIYK56S_7btf5a-iQ" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UC4dtpugIYK56S_7btf5a-iQ</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[林亦LYi 聊 3C[YT+]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://yt3.ggpht.com/2A8k4i7ppGHDnBwzGHIJZ5an_fvHKJ7NpjwCLXrWk003gBVu_Aknt_Fzf-52nXcUA1cInkg9Mg=s88-c-k-c0x00ffffff-no-rj"/>
+<item>
+      <title><![CDATA[英伟达+128GB，能打败苹果吗？]]></title>
+      <link>https://www.youtube.com/watch?v=Pc-Mh4G0d_g</link>
+      <itunes:title><![CDATA[英伟达+128GB，能打败苹果吗？]]></itunes:title>
+      <itunes:author><![CDATA[林亦LYi]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/Pc-Mh4G0d_g/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=Pc-Mh4G0d_g">https://www.youtube.com/watch?v=Pc-Mh4G0d_g</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li>深入評測搭載 NVIDIA 晶片與 128GB 統一記憶體的高階輕薄筆電（以聯想 Yoga Pro 15 RTX Spark 為例），解析其在本地 AI 推理、圖形生成與智能體（Agent）應用上的實際效能。</li>
+  <li>與蘋果高階晶片（如 M5 Max 系列）在各項大型語言模型、影片生成及本地 AI 框架優化上的實測對比，為關注硬體發展與 AI 開發者提供第一手數據。</li>
+  <li>探討在未連網的狀態下，純本地 AI 運算如何處理如長文本分析、自動生成簡報（PPT）以及工具調用等高難度任務，展現個人電腦結合 AI 的全新可能。</li>
+</ul>
+<hr />
+<h1>摘要</h1>
+<p>影片開頭介紹了黃仁勳提出的「重新發明個人電腦」概念，並以搭載 RTX Spark 晶片及 128GB 統一記憶體的輕薄筆電進行全方位實測。硬體架構上，該方案透過 NVLink 進行 C2C 連接，能訪問同一組 128GB LPDDR5X 統一記憶體，允許使用者透過 NVIDIA App 調節專用 GPU 佔比高達 96GB，以滿足大型 AI 模型的顯存需求。雖然在功耗壓低至 80W 的情況下，其 CPU 與極限峰值性能與部分對手存在差距，但在 AI 應用場景中展現出強悍實力。</p>
+
+<h2>本地 AI 模型與智慧體（Agent）表現</h2>
+<p>在基準測試中，測試團隊選用了 Q4 量化版的千問 3.827B 多模態模型進行實測。在模擬真實智能體任務的 Agent Perf Local 測試中，RTX Spark 憑藉持續解碼的優勢，完成任務的速度比對照組快了近 1.5 倍。隨後實際接入 WorkBuddy 智能體進行本地工作測試，在完全未連網的飛機上，成功讓本地 AI 讀取舊有會議記錄並在約 20 分鐘內自動生成高完成度的簡報（PPT）。此外，它還能透過 NVIDIA Broadcast 的 AI 接口自動編寫代碼並手動繪製專業的視訊會議背景圖，展現極強的自主解決問題能力。</p>
+
+<h2>生圖、影片生成與遊戲效能</h2>
+<p>在本地生成圖片與影片方面，透過 ComfyUI 測試 Flux 模型，經過專門針對 Blackwell 架構優化的 NVFP4 格式運行速度極快，平均生成僅需約 6 秒。而在生成 10 秒影片（如馬斯克 Roadster 火箭分離降落火星）的極端測試中，128GB 統一記憶體幾乎全滿，耗時 14 分鐘完成。遊戲表現方面，在開啟光線追蹤與 DLSS 的情況下，多款 3A 大作平均幀率皆可跑到 130 幀以上，具備一定的日常遊戲娛樂能力。</p>
+
+<p>總結而言，這類大容量統一記憶體與強大本地 AI 支援的輕薄筆電，為開發者和專業用戶帶來了巨大的想像空間，也標誌著個人電腦在處理複雜專業任務時邁入全新的階段。</p>
+<p><a href="[http://www.youtube.com/watch?v=Pc-Mh4G0d_g](http://www.youtube.com/watch?v=Pc-Mh4G0d_g)">[http://www.youtube.com/watch?v=Pc-Mh4G0d_g](http://www.youtube.com/watch?v=Pc-Mh4G0d_g)</a></p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=Pc-Mh4G0d_g">https://www.youtube.com/watch?v=Pc-Mh4G0d_g</a></p><p>这次我们收到了拥有128GB统一内存的联想 YOGA Pro 15 RTX Spark，拿它测试了包括本地智能体、AIGC创作在内的各种本地AI任务。这会是如今纯度最高的AI笔记本吗？让我们一起看看吧！</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/Pc-Mh4G0d_g/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=Pc-Mh4G0d_g">https://www.youtube.com/watch?v=Pc-Mh4G0d_g</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li>深入評測搭載 NVIDIA 晶片與 128GB 統一記憶體的高階輕薄筆電（以聯想 Yoga Pro 15 RTX Spark 為例），解析其在本地 AI 推理、圖形生成與智能體（Agent）應用上的實際效能。</li>
+  <li>與蘋果高階晶片（如 M5 Max 系列）在各項大型語言模型、影片生成及本地 AI 框架優化上的實測對比，為關注硬體發展與 AI 開發者提供第一手數據。</li>
+  <li>探討在未連網的狀態下，純本地 AI 運算如何處理如長文本分析、自動生成簡報（PPT）以及工具調用等高難度任務，展現個人電腦結合 AI 的全新可能。</li>
+</ul>
+<hr />
+<h1>摘要</h1>
+<p>影片開頭介紹了黃仁勳提出的「重新發明個人電腦」概念，並以搭載 RTX Spark 晶片及 128GB 統一記憶體的輕薄筆電進行全方位實測。硬體架構上，該方案透過 NVLink 進行 C2C 連接，能訪問同一組 128GB LPDDR5X 統一記憶體，允許使用者透過 NVIDIA App 調節專用 GPU 佔比高達 96GB，以滿足大型 AI 模型的顯存需求。雖然在功耗壓低至 80W 的情況下，其 CPU 與極限峰值性能與部分對手存在差距，但在 AI 應用場景中展現出強悍實力。</p>
+
+<h2>本地 AI 模型與智慧體（Agent）表現</h2>
+<p>在基準測試中，測試團隊選用了 Q4 量化版的千問 3.827B 多模態模型進行實測。在模擬真實智能體任務的 Agent Perf Local 測試中，RTX Spark 憑藉持續解碼的優勢，完成任務的速度比對照組快了近 1.5 倍。隨後實際接入 WorkBuddy 智能體進行本地工作測試，在完全未連網的飛機上，成功讓本地 AI 讀取舊有會議記錄並在約 20 分鐘內自動生成高完成度的簡報（PPT）。此外，它還能透過 NVIDIA Broadcast 的 AI 接口自動編寫代碼並手動繪製專業的視訊會議背景圖，展現極強的自主解決問題能力。</p>
+
+<h2>生圖、影片生成與遊戲效能</h2>
+<p>在本地生成圖片與影片方面，透過 ComfyUI 測試 Flux 模型，經過專門針對 Blackwell 架構優化的 NVFP4 格式運行速度極快，平均生成僅需約 6 秒。而在生成 10 秒影片（如馬斯克 Roadster 火箭分離降落火星）的極端測試中，128GB 統一記憶體幾乎全滿，耗時 14 分鐘完成。遊戲表現方面，在開啟光線追蹤與 DLSS 的情況下，多款 3A 大作平均幀率皆可跑到 130 幀以上，具備一定的日常遊戲娛樂能力。</p>
+
+<p>總結而言，這類大容量統一記憶體與強大本地 AI 支援的輕薄筆電，為開發者和專業用戶帶來了巨大的想像空間，也標誌著個人電腦在處理複雜專業任務時邁入全新的階段。</p>
+<p><a href="[http://www.youtube.com/watch?v=Pc-Mh4G0d_g](http://www.youtube.com/watch?v=Pc-Mh4G0d_g)">[http://www.youtube.com/watch?v=Pc-Mh4G0d_g](http://www.youtube.com/watch?v=Pc-Mh4G0d_g)</a></p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=Pc-Mh4G0d_g">https://www.youtube.com/watch?v=Pc-Mh4G0d_g</a></p><p>这次我们收到了拥有128GB统一内存的联想 YOGA Pro 15 RTX Spark，拿它测试了包括本地智能体、AIGC创作在内的各种本地AI任务。这会是如今纯度最高的AI笔记本吗？让我们一起看看吧！</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/Pc-Mh4G0d_g/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=Pc-Mh4G0d_g">https://www.youtube.com/watch?v=Pc-Mh4G0d_g</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li>深入評測搭載 NVIDIA 晶片與 128GB 統一記憶體的高階輕薄筆電（以聯想 Yoga Pro 15 RTX Spark 為例），解析其在本地 AI 推理、圖形生成與智能體（Agent）應用上的實際效能。</li>
+  <li>與蘋果高階晶片（如 M5 Max 系列）在各項大型語言模型、影片生成及本地 AI 框架優化上的實測對比，為關注硬體發展與 AI 開發者提供第一手數據。</li>
+  <li>探討在未連網的狀態下，純本地 AI 運算如何處理如長文本分析、自動生成簡報（PPT）以及工具調用等高難度任務，展現個人電腦結合 AI 的全新可能。</li>
+</ul>
+<hr />
+<h1>摘要</h1>
+<p>影片開頭介紹了黃仁勳提出的「重新發明個人電腦」概念，並以搭載 RTX Spark 晶片及 128GB 統一記憶體的輕薄筆電進行全方位實測。硬體架構上，該方案透過 NVLink 進行 C2C 連接，能訪問同一組 128GB LPDDR5X 統一記憶體，允許使用者透過 NVIDIA App 調節專用 GPU 佔比高達 96GB，以滿足大型 AI 模型的顯存需求。雖然在功耗壓低至 80W 的情況下，其 CPU 與極限峰值性能與部分對手存在差距，但在 AI 應用場景中展現出強悍實力。</p>
+
+<h2>本地 AI 模型與智慧體（Agent）表現</h2>
+<p>在基準測試中，測試團隊選用了 Q4 量化版的千問 3.827B 多模態模型進行實測。在模擬真實智能體任務的 Agent Perf Local 測試中，RTX Spark 憑藉持續解碼的優勢，完成任務的速度比對照組快了近 1.5 倍。隨後實際接入 WorkBuddy 智能體進行本地工作測試，在完全未連網的飛機上，成功讓本地 AI 讀取舊有會議記錄並在約 20 分鐘內自動生成高完成度的簡報（PPT）。此外，它還能透過 NVIDIA Broadcast 的 AI 接口自動編寫代碼並手動繪製專業的視訊會議背景圖，展現極強的自主解決問題能力。</p>
+
+<h2>生圖、影片生成與遊戲效能</h2>
+<p>在本地生成圖片與影片方面，透過 ComfyUI 測試 Flux 模型，經過專門針對 Blackwell 架構優化的 NVFP4 格式運行速度極快，平均生成僅需約 6 秒。而在生成 10 秒影片（如馬斯克 Roadster 火箭分離降落火星）的極端測試中，128GB 統一記憶體幾乎全滿，耗時 14 分鐘完成。遊戲表現方面，在開啟光線追蹤與 DLSS 的情況下，多款 3A 大作平均幀率皆可跑到 130 幀以上，具備一定的日常遊戲娛樂能力。</p>
+
+<p>總結而言，這類大容量統一記憶體與強大本地 AI 支援的輕薄筆電，為開發者和專業用戶帶來了巨大的想像空間，也標誌著個人電腦在處理複雜專業任務時邁入全新的階段。</p>
+<p><a href="[http://www.youtube.com/watch?v=Pc-Mh4G0d_g](http://www.youtube.com/watch?v=Pc-Mh4G0d_g)">[http://www.youtube.com/watch?v=Pc-Mh4G0d_g](http://www.youtube.com/watch?v=Pc-Mh4G0d_g)</a></p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=Pc-Mh4G0d_g">https://www.youtube.com/watch?v=Pc-Mh4G0d_g</a></p><p>这次我们收到了拥有128GB统一内存的联想 YOGA Pro 15 RTX Spark，拿它测试了包括本地智能体、AIGC创作在内的各种本地AI任务。这会是如今纯度最高的AI笔记本吗？让我们一起看看吧！</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/Pc-Mh4G0d_g/hqdefault.jpg"/>
+      <pubDate>2026-10-24T04:00:26.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[为什么说AI正在帮玩家夺回游戏？]]></title>
+      <link>https://www.youtube.com/watch?v=N9gUIGoQnAQ</link>
+      <itunes:title><![CDATA[为什么说AI正在帮玩家夺回游戏？]]></itunes:title>
+      <itunes:author><![CDATA[林亦LYi]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/N9gUIGoQnAQ/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=N9gUIGoQnAQ">https://www.youtube.com/watch?v=N9gUIGoQnAQ</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li>探討遊戲產業從實體光盤時代全面轉向數位授權的轉變，剖析各大廠商（如微軟、索尼等）逐步取消實體光盤與門市背後的商業與成本考量。</li>
+  <li>深入分析玩家在享受數位化便利的同時，如何不知不覺失去了遊戲的轉讓、離線遊玩與長期保存等自主權。</li>
+  <li>介紹當前民間開發者與 AI 技術（如結合逆向工程與 AI 輔助工具）如何試圖打破主機壁壘，幫玩家在 PC 上找回老遊戲的生存空間。</li>
+</ul>
+<hr />
+<h1>摘要</h1>
+
+<h2>一、數位化浪潮與實體時代的消逝</h2>
+<p>
+早期遊戲以實體卡帶或光盤（如 PlayStation 的各代光盤）為主，玩家購買後享有完整的所有權，可以轉借朋友、轉賣二手或數年後重新拿出來遊玩 [[02:31](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=151)]。然而，遊戲廠商為了追求更高的利潤並防止二手市場分潤流失，逐漸推動數位授權與訂閱制 [[02:53](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=173)]。例如微軟曾在 2013 年試圖加上嚴格的 24 小時聯網驗證與二手光盤限制，遭到玩家強烈抵制而暫時妥協 [[01:30](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=90)]。但隨著 Steam 透過便利的數位商店與特價促銷成功「溫水煮青蛙」，數位消費最終成為主流 [[04:19](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=259)]。
+</p>
+<p>
+近年來，索尼等大廠也紛紛轉向數位化。索尼不僅在 PS5 Pro 砍掉內置光區，更宣布將從 2028 年起全面停止生產新遊戲的實體光盤 [[05:01](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=301)]。各大發行商（如 Rockstar 等）也因數位發行能省去壓製、物流、零售商分成，且能有效防止提前洩露與阻斷二手交易，全面擁抱純數位化 [[05:43](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=343)]。這導致玩家雖然買到了便利，卻也失去了對遊戲的真正掌控權 [[06:47](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=407)]。
+</p>
+
+<h2>二、老遊戲的困境與硬體架構的鴻溝</h2>
+<p>
+當數位商城隨時可能關閉、遊戲因伺服器關閉而無法遊玩時，老遊戲的保存成為一大難題 [[04:56](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=296)]。由於跨平臺移植成本高昂，且不同主機與 PC 的底層架構存在巨大差異，廠商往往不願意為銷量有限的老遊戲投入大量工程成本進行優化與重製 [[07:07](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=427)]。在過去，逆向工程需要龐大的人力花費數年時間去解讀行號與亂碼，極其「反人類」 [[11:32](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=692)]。
+</p>
+
+<h2>三、AI 與開源項目的逆襲：幫玩家奪回遊戲</h2>
+<p>
+面對官方的放棄與平臺壁壘，民間開發者開始借助 <strong>AI 技術</strong> 作為強大的「撬棍」來進行逆向工程 [[10:29](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=629)]。例如名為 <strong>enPS5</strong> 等開源專案，嘗試不靠模擬器（模擬器需邊運行邊翻譯，性能負擔重），而是透過靜態重編譯、重鏈接器與自定義系統庫，直接把主機遊戲轉換為 Windows 或 Linux 能識別的格式 [[08:55](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=535)]。
+</p>
+<p>
+在這一過程中，AI（如 Claude Code 等智能體）發揮了關鍵作用，可用於猜測無註釋的反編譯代碼、自動標註函數、自動排查並追蹤 Bug，甚至協助重寫與調試代碼 [[12:28](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=748)]。這使得原本需要一整支專業團隊花費數年才能完成的龐大逆向工程，被壓縮成個人也能嘗試的任務，讓許多經典遊戲有望在 PC 上獲得「永生」 [[14:05](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=845)]。
+</p>
+<p>
+影片網址：[https://www.youtube.com/watch?v=N9gUIGoQnAQ](https://www.youtube.com/watch?v=N9gUIGoQnAQ)
+</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=N9gUIGoQnAQ">https://www.youtube.com/watch?v=N9gUIGoQnAQ</a></p><p>花几百块买的游戏，厂商说关服就关服？当索尼宣布停产实体光盘，民间大神却用AI把PS5大作逆向搬上了PC。在便利的数字时代，到底是谁偷走了我们的游戏“房产证”？</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/N9gUIGoQnAQ/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=N9gUIGoQnAQ">https://www.youtube.com/watch?v=N9gUIGoQnAQ</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li>探討遊戲產業從實體光盤時代全面轉向數位授權的轉變，剖析各大廠商（如微軟、索尼等）逐步取消實體光盤與門市背後的商業與成本考量。</li>
+  <li>深入分析玩家在享受數位化便利的同時，如何不知不覺失去了遊戲的轉讓、離線遊玩與長期保存等自主權。</li>
+  <li>介紹當前民間開發者與 AI 技術（如結合逆向工程與 AI 輔助工具）如何試圖打破主機壁壘，幫玩家在 PC 上找回老遊戲的生存空間。</li>
+</ul>
+<hr />
+<h1>摘要</h1>
+
+<h2>一、數位化浪潮與實體時代的消逝</h2>
+<p>
+早期遊戲以實體卡帶或光盤（如 PlayStation 的各代光盤）為主，玩家購買後享有完整的所有權，可以轉借朋友、轉賣二手或數年後重新拿出來遊玩 [[02:31](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=151)]。然而，遊戲廠商為了追求更高的利潤並防止二手市場分潤流失，逐漸推動數位授權與訂閱制 [[02:53](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=173)]。例如微軟曾在 2013 年試圖加上嚴格的 24 小時聯網驗證與二手光盤限制，遭到玩家強烈抵制而暫時妥協 [[01:30](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=90)]。但隨著 Steam 透過便利的數位商店與特價促銷成功「溫水煮青蛙」，數位消費最終成為主流 [[04:19](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=259)]。
+</p>
+<p>
+近年來，索尼等大廠也紛紛轉向數位化。索尼不僅在 PS5 Pro 砍掉內置光區，更宣布將從 2028 年起全面停止生產新遊戲的實體光盤 [[05:01](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=301)]。各大發行商（如 Rockstar 等）也因數位發行能省去壓製、物流、零售商分成，且能有效防止提前洩露與阻斷二手交易，全面擁抱純數位化 [[05:43](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=343)]。這導致玩家雖然買到了便利，卻也失去了對遊戲的真正掌控權 [[06:47](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=407)]。
+</p>
+
+<h2>二、老遊戲的困境與硬體架構的鴻溝</h2>
+<p>
+當數位商城隨時可能關閉、遊戲因伺服器關閉而無法遊玩時，老遊戲的保存成為一大難題 [[04:56](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=296)]。由於跨平臺移植成本高昂，且不同主機與 PC 的底層架構存在巨大差異，廠商往往不願意為銷量有限的老遊戲投入大量工程成本進行優化與重製 [[07:07](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=427)]。在過去，逆向工程需要龐大的人力花費數年時間去解讀行號與亂碼，極其「反人類」 [[11:32](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=692)]。
+</p>
+
+<h2>三、AI 與開源項目的逆襲：幫玩家奪回遊戲</h2>
+<p>
+面對官方的放棄與平臺壁壘，民間開發者開始借助 <strong>AI 技術</strong> 作為強大的「撬棍」來進行逆向工程 [[10:29](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=629)]。例如名為 <strong>enPS5</strong> 等開源專案，嘗試不靠模擬器（模擬器需邊運行邊翻譯，性能負擔重），而是透過靜態重編譯、重鏈接器與自定義系統庫，直接把主機遊戲轉換為 Windows 或 Linux 能識別的格式 [[08:55](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=535)]。
+</p>
+<p>
+在這一過程中，AI（如 Claude Code 等智能體）發揮了關鍵作用，可用於猜測無註釋的反編譯代碼、自動標註函數、自動排查並追蹤 Bug，甚至協助重寫與調試代碼 [[12:28](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=748)]。這使得原本需要一整支專業團隊花費數年才能完成的龐大逆向工程，被壓縮成個人也能嘗試的任務，讓許多經典遊戲有望在 PC 上獲得「永生」 [[14:05](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=845)]。
+</p>
+<p>
+影片網址：[https://www.youtube.com/watch?v=N9gUIGoQnAQ](https://www.youtube.com/watch?v=N9gUIGoQnAQ)
+</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=N9gUIGoQnAQ">https://www.youtube.com/watch?v=N9gUIGoQnAQ</a></p><p>花几百块买的游戏，厂商说关服就关服？当索尼宣布停产实体光盘，民间大神却用AI把PS5大作逆向搬上了PC。在便利的数字时代，到底是谁偷走了我们的游戏“房产证”？</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/N9gUIGoQnAQ/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=N9gUIGoQnAQ">https://www.youtube.com/watch?v=N9gUIGoQnAQ</a></p><h1>值得閱讀的理由</h1>
+<ul>
+  <li>探討遊戲產業從實體光盤時代全面轉向數位授權的轉變，剖析各大廠商（如微軟、索尼等）逐步取消實體光盤與門市背後的商業與成本考量。</li>
+  <li>深入分析玩家在享受數位化便利的同時，如何不知不覺失去了遊戲的轉讓、離線遊玩與長期保存等自主權。</li>
+  <li>介紹當前民間開發者與 AI 技術（如結合逆向工程與 AI 輔助工具）如何試圖打破主機壁壘，幫玩家在 PC 上找回老遊戲的生存空間。</li>
+</ul>
+<hr />
+<h1>摘要</h1>
+
+<h2>一、數位化浪潮與實體時代的消逝</h2>
+<p>
+早期遊戲以實體卡帶或光盤（如 PlayStation 的各代光盤）為主，玩家購買後享有完整的所有權，可以轉借朋友、轉賣二手或數年後重新拿出來遊玩 [[02:31](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=151)]。然而，遊戲廠商為了追求更高的利潤並防止二手市場分潤流失，逐漸推動數位授權與訂閱制 [[02:53](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=173)]。例如微軟曾在 2013 年試圖加上嚴格的 24 小時聯網驗證與二手光盤限制，遭到玩家強烈抵制而暫時妥協 [[01:30](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=90)]。但隨著 Steam 透過便利的數位商店與特價促銷成功「溫水煮青蛙」，數位消費最終成為主流 [[04:19](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=259)]。
+</p>
+<p>
+近年來，索尼等大廠也紛紛轉向數位化。索尼不僅在 PS5 Pro 砍掉內置光區，更宣布將從 2028 年起全面停止生產新遊戲的實體光盤 [[05:01](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=301)]。各大發行商（如 Rockstar 等）也因數位發行能省去壓製、物流、零售商分成，且能有效防止提前洩露與阻斷二手交易，全面擁抱純數位化 [[05:43](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=343)]。這導致玩家雖然買到了便利，卻也失去了對遊戲的真正掌控權 [[06:47](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=407)]。
+</p>
+
+<h2>二、老遊戲的困境與硬體架構的鴻溝</h2>
+<p>
+當數位商城隨時可能關閉、遊戲因伺服器關閉而無法遊玩時，老遊戲的保存成為一大難題 [[04:56](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=296)]。由於跨平臺移植成本高昂，且不同主機與 PC 的底層架構存在巨大差異，廠商往往不願意為銷量有限的老遊戲投入大量工程成本進行優化與重製 [[07:07](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=427)]。在過去，逆向工程需要龐大的人力花費數年時間去解讀行號與亂碼，極其「反人類」 [[11:32](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=692)]。
+</p>
+
+<h2>三、AI 與開源項目的逆襲：幫玩家奪回遊戲</h2>
+<p>
+面對官方的放棄與平臺壁壘，民間開發者開始借助 <strong>AI 技術</strong> 作為強大的「撬棍」來進行逆向工程 [[10:29](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=629)]。例如名為 <strong>enPS5</strong> 等開源專案，嘗試不靠模擬器（模擬器需邊運行邊翻譯，性能負擔重），而是透過靜態重編譯、重鏈接器與自定義系統庫，直接把主機遊戲轉換為 Windows 或 Linux 能識別的格式 [[08:55](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=535)]。
+</p>
+<p>
+在這一過程中，AI（如 Claude Code 等智能體）發揮了關鍵作用，可用於猜測無註釋的反編譯代碼、自動標註函數、自動排查並追蹤 Bug，甚至協助重寫與調試代碼 [[12:28](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=748)]。這使得原本需要一整支專業團隊花費數年才能完成的龐大逆向工程，被壓縮成個人也能嘗試的任務，讓許多經典遊戲有望在 PC 上獲得「永生」 [[14:05](https://www.youtube.com/watch?v=N9gUIGoQnAQ&t=845)]。
+</p>
+<p>
+影片網址：[https://www.youtube.com/watch?v=N9gUIGoQnAQ](https://www.youtube.com/watch?v=N9gUIGoQnAQ)
+</p>
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=N9gUIGoQnAQ">https://www.youtube.com/watch?v=N9gUIGoQnAQ</a></p><p>花几百块买的游戏，厂商说关服就关服？当索尼宣布停产实体光盘，民间大神却用AI把PS5大作逆向搬上了PC。在便利的数字时代，到底是谁偷走了我们的游戏“房产证”？</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/N9gUIGoQnAQ/hqdefault.jpg"/>
+      <pubDate>2026-10-22T13:00:03.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[耳机直连飞书？安克 AI 会议耳机上手体验！]]></title>
+      <link>https://www.youtube.com/watch?v=i0B3Z9lhXOw</link>
+      <itunes:title><![CDATA[耳机直连飞书？安克 AI 会议耳机上手体验！]]></itunes:title>
+      <itunes:author><![CDATA[林亦LYi]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/i0B3Z9lhXOw/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=i0B3Z9lhXOw">https://www.youtube.com/watch?v=i0B3Z9lhXOw</a></p><h1>值得閱讀的理由</h1><ul><li>瞭解安克與飛書深度整合的 <strong>AI 會議耳機</strong>如何實現錄音即時轉文字與自動生成摘要。</li><li>掌握耳機硬體在極端環境（如飛機客艙）下的<strong>高階降噪與清晰收音</strong>技術突破。</li><li>學習如何利用智慧耳機與企業協同工具串聯，大幅降低人與人、人與 AI 之間的<strong>溝通與協作成本</strong>。</li></ul><hr /><h1>摘要</h1><h2>軟硬體深度串聯：會議耳機直連飛書生態</h2><p>作者指出，許多人在使用 AI 時常花費大量時間整理與提供資訊，而安克與飛書合作推出的 <strong>AI 會議耳機</strong>正是為了解決此痛點。該耳機主打<strong>AI 工作流程一體化</strong>，無需額外下載第三方應用程式，從配對到錄音均可在飛書內完成。在作者團隊高強度的影片更新週期中，這款耳機協助記錄了各類溝通會議，會後自動將彙整的資訊發送至群組，並能直接驅動 AI 輸出腳本參考大綱，體驗十分流暢。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/i0B3Z9lhXOw_43.jpg" /></p><h2>靈活多元的錄音與標記功能</h2><p>該耳機將<strong>錄音列為最高優先級功能</strong>，使用者只需雙擊充電盒按鈕或輕觸耳機外側即可快速啟動。充電盒配備觸控螢幕，在線下會議時能隨時<strong>標記重點或暫停錄音</strong>，讓後續交給 AI 轉錄的音訊乾淨無干擾。此外，無論是電話通話或第三方通訊軟體（如釘釘、企業微信），耳機均能精準錄製並同步歸檔至飛書，充電盒與耳機甚至支援<strong>雙向獨立錄音</strong>，滿足複雜的多方會議情境。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/i0B3Z9lhXOw_95.jpg" /></p><h2>自動化會議紀要與 AI 知識庫協同</h2><p>在錄音進行時，飛書會同步顯示<strong>即時發言轉錄與智慧摘要</strong>，會後完整紀要自動存入雲端硬碟。作者認為 AI 產生的摘要水準已超越人工手打，並能直接作為飛書內建<strong>「豆包」AI 助手</strong>的重要參考資料。團隊成員上班只需詢問專屬的 AI 助手，便能即時掌握各項會議產出的工作重點，使<strong>協同工作效率倍增</strong>。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/i0B3Z9lhXOw_153.jpg" /></p><h2>強悍降噪硬體：存算一體晶片與多麥克風陣列</h2><p>針對轉錄準確度的關鍵——收音品質，作者在噪音極大的飛機客艙內進行測試，證實耳機能有效濾除環境雜音並保留清晰人聲。硬體方面，耳機搭載了比常規降噪耳機更多的<strong>MEMS 麥克風</strong>，並內建安克自研的<strong>存算一體晶片</strong>，在維持低功耗的同時將算力提升 150 倍。強大的軟硬協同降噪能力，即使用戶身處吵雜的現場，錄音內容也能<strong>完全剔除干擾人聲</strong>，確保數據源頭的高精準度。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/i0B3Z9lhXOw_232.jpg" /></p><h2>重塑 AI 工作流程的必備工具</h2><p>作者總結，隨著 AI 分析能力的進化，各類錄音設備層出不窮，但作為最貼近耳朵的穿戴裝置，<strong>耳機形態依然是實用性最高、最不易踩雷的選擇</strong>。安克 AI 會議耳機不僅具備優秀的日常音樂降噪水準，更切實降低了溝通成本，成為重度依賴協作工具的團隊中<strong>不可或缺的 AI 生產力利器</strong>。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=i0B3Z9lhXOw">https://www.youtube.com/watch?v=i0B3Z9lhXOw</a></p><p>我们体验了安克和飞书推出的 AI 会议耳机，看看在连接 AI 这件事上，还能玩出什么花来？</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/i0B3Z9lhXOw/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=i0B3Z9lhXOw">https://www.youtube.com/watch?v=i0B3Z9lhXOw</a></p><h1>值得閱讀的理由</h1><ul><li>瞭解安克與飛書深度整合的 <strong>AI 會議耳機</strong>如何實現錄音即時轉文字與自動生成摘要。</li><li>掌握耳機硬體在極端環境（如飛機客艙）下的<strong>高階降噪與清晰收音</strong>技術突破。</li><li>學習如何利用智慧耳機與企業協同工具串聯，大幅降低人與人、人與 AI 之間的<strong>溝通與協作成本</strong>。</li></ul><hr /><h1>摘要</h1><h2>軟硬體深度串聯：會議耳機直連飛書生態</h2><p>作者指出，許多人在使用 AI 時常花費大量時間整理與提供資訊，而安克與飛書合作推出的 <strong>AI 會議耳機</strong>正是為了解決此痛點。該耳機主打<strong>AI 工作流程一體化</strong>，無需額外下載第三方應用程式，從配對到錄音均可在飛書內完成。在作者團隊高強度的影片更新週期中，這款耳機協助記錄了各類溝通會議，會後自動將彙整的資訊發送至群組，並能直接驅動 AI 輸出腳本參考大綱，體驗十分流暢。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/i0B3Z9lhXOw_43.jpg" /></p><h2>靈活多元的錄音與標記功能</h2><p>該耳機將<strong>錄音列為最高優先級功能</strong>，使用者只需雙擊充電盒按鈕或輕觸耳機外側即可快速啟動。充電盒配備觸控螢幕，在線下會議時能隨時<strong>標記重點或暫停錄音</strong>，讓後續交給 AI 轉錄的音訊乾淨無干擾。此外，無論是電話通話或第三方通訊軟體（如釘釘、企業微信），耳機均能精準錄製並同步歸檔至飛書，充電盒與耳機甚至支援<strong>雙向獨立錄音</strong>，滿足複雜的多方會議情境。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/i0B3Z9lhXOw_95.jpg" /></p><h2>自動化會議紀要與 AI 知識庫協同</h2><p>在錄音進行時，飛書會同步顯示<strong>即時發言轉錄與智慧摘要</strong>，會後完整紀要自動存入雲端硬碟。作者認為 AI 產生的摘要水準已超越人工手打，並能直接作為飛書內建<strong>「豆包」AI 助手</strong>的重要參考資料。團隊成員上班只需詢問專屬的 AI 助手，便能即時掌握各項會議產出的工作重點，使<strong>協同工作效率倍增</strong>。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/i0B3Z9lhXOw_153.jpg" /></p><h2>強悍降噪硬體：存算一體晶片與多麥克風陣列</h2><p>針對轉錄準確度的關鍵——收音品質，作者在噪音極大的飛機客艙內進行測試，證實耳機能有效濾除環境雜音並保留清晰人聲。硬體方面，耳機搭載了比常規降噪耳機更多的<strong>MEMS 麥克風</strong>，並內建安克自研的<strong>存算一體晶片</strong>，在維持低功耗的同時將算力提升 150 倍。強大的軟硬協同降噪能力，即使用戶身處吵雜的現場，錄音內容也能<strong>完全剔除干擾人聲</strong>，確保數據源頭的高精準度。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/i0B3Z9lhXOw_232.jpg" /></p><h2>重塑 AI 工作流程的必備工具</h2><p>作者總結，隨著 AI 分析能力的進化，各類錄音設備層出不窮，但作為最貼近耳朵的穿戴裝置，<strong>耳機形態依然是實用性最高、最不易踩雷的選擇</strong>。安克 AI 會議耳機不僅具備優秀的日常音樂降噪水準，更切實降低了溝通成本，成為重度依賴協作工具的團隊中<strong>不可或缺的 AI 生產力利器</strong>。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=i0B3Z9lhXOw">https://www.youtube.com/watch?v=i0B3Z9lhXOw</a></p><p>我们体验了安克和飞书推出的 AI 会议耳机，看看在连接 AI 这件事上，还能玩出什么花来？</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/i0B3Z9lhXOw/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=i0B3Z9lhXOw">https://www.youtube.com/watch?v=i0B3Z9lhXOw</a></p><h1>值得閱讀的理由</h1><ul><li>瞭解安克與飛書深度整合的 <strong>AI 會議耳機</strong>如何實現錄音即時轉文字與自動生成摘要。</li><li>掌握耳機硬體在極端環境（如飛機客艙）下的<strong>高階降噪與清晰收音</strong>技術突破。</li><li>學習如何利用智慧耳機與企業協同工具串聯，大幅降低人與人、人與 AI 之間的<strong>溝通與協作成本</strong>。</li></ul><hr /><h1>摘要</h1><h2>軟硬體深度串聯：會議耳機直連飛書生態</h2><p>作者指出，許多人在使用 AI 時常花費大量時間整理與提供資訊，而安克與飛書合作推出的 <strong>AI 會議耳機</strong>正是為了解決此痛點。該耳機主打<strong>AI 工作流程一體化</strong>，無需額外下載第三方應用程式，從配對到錄音均可在飛書內完成。在作者團隊高強度的影片更新週期中，這款耳機協助記錄了各類溝通會議，會後自動將彙整的資訊發送至群組，並能直接驅動 AI 輸出腳本參考大綱，體驗十分流暢。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/i0B3Z9lhXOw_43.jpg" /></p><h2>靈活多元的錄音與標記功能</h2><p>該耳機將<strong>錄音列為最高優先級功能</strong>，使用者只需雙擊充電盒按鈕或輕觸耳機外側即可快速啟動。充電盒配備觸控螢幕，在線下會議時能隨時<strong>標記重點或暫停錄音</strong>，讓後續交給 AI 轉錄的音訊乾淨無干擾。此外，無論是電話通話或第三方通訊軟體（如釘釘、企業微信），耳機均能精準錄製並同步歸檔至飛書，充電盒與耳機甚至支援<strong>雙向獨立錄音</strong>，滿足複雜的多方會議情境。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/i0B3Z9lhXOw_95.jpg" /></p><h2>自動化會議紀要與 AI 知識庫協同</h2><p>在錄音進行時，飛書會同步顯示<strong>即時發言轉錄與智慧摘要</strong>，會後完整紀要自動存入雲端硬碟。作者認為 AI 產生的摘要水準已超越人工手打，並能直接作為飛書內建<strong>「豆包」AI 助手</strong>的重要參考資料。團隊成員上班只需詢問專屬的 AI 助手，便能即時掌握各項會議產出的工作重點，使<strong>協同工作效率倍增</strong>。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/i0B3Z9lhXOw_153.jpg" /></p><h2>強悍降噪硬體：存算一體晶片與多麥克風陣列</h2><p>針對轉錄準確度的關鍵——收音品質，作者在噪音極大的飛機客艙內進行測試，證實耳機能有效濾除環境雜音並保留清晰人聲。硬體方面，耳機搭載了比常規降噪耳機更多的<strong>MEMS 麥克風</strong>，並內建安克自研的<strong>存算一體晶片</strong>，在維持低功耗的同時將算力提升 150 倍。強大的軟硬協同降噪能力，即使用戶身處吵雜的現場，錄音內容也能<strong>完全剔除干擾人聲</strong>，確保數據源頭的高精準度。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/i0B3Z9lhXOw_232.jpg" /></p><h2>重塑 AI 工作流程的必備工具</h2><p>作者總結，隨著 AI 分析能力的進化，各類錄音設備層出不窮，但作為最貼近耳朵的穿戴裝置，<strong>耳機形態依然是實用性最高、最不易踩雷的選擇</strong>。安克 AI 會議耳機不僅具備優秀的日常音樂降噪水準，更切實降低了溝通成本，成為重度依賴協作工具的團隊中<strong>不可或缺的 AI 生產力利器</strong>。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=i0B3Z9lhXOw">https://www.youtube.com/watch?v=i0B3Z9lhXOw</a></p><p>我们体验了安克和飞书推出的 AI 会议耳机，看看在连接 AI 这件事上，还能玩出什么花来？</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/i0B3Z9lhXOw/hqdefault.jpg"/>
+      <pubDate>2026-10-17T12:00:24.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[三年后，我用AI彻底杀死了街霸2！]]></title>
+      <link>https://www.youtube.com/watch?v=m19LBe9J1bQ</link>
+      <itunes:title><![CDATA[三年后，我用AI彻底杀死了街霸2！]]></itunes:title>
+      <itunes:author><![CDATA[林亦LYi]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/m19LBe9J1bQ/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=m19LBe9J1bQ">https://www.youtube.com/watch?v=m19LBe9J1bQ</a></p><h1>值得閱讀的理由</h1><ul><li>揭秘如何結合<strong>強化學習</strong>、<strong>混合專家（MoE）</strong>與<strong>知識蒸餾</strong>等前沿 AI 技術，徹底攻克經典街機遊戲《快打旋風 2》。</li><li>詳盡分享工程實戰中的避坑指南，包括解決抽幀頻率盲點、利用<strong>運動前景提取</strong>化解背景干擾，以及打造大規模並行訓練架構。</li><li>展現團隊憑藉好奇心與開源精神，從頻繁碰壁的彎路中摸索出終極解決方案的極客探索歷程。</li></ul><hr /><h1>摘要</h1><h2>從死記硬背到八星突破：回顧與課程學習的瓶頸</h2><p>作者回顧了 2023 年利用 GPT-4 構建訓練框架通關《快打旋風 2》關底 Boss 的經歷。當時因頻繁切換模擬器存檔，導致模型產生嚴重的<strong>過擬合</strong>，只能以四星難度通關。隨著 AI 工具進步，作者重啟計畫並將回檔機制調整為「分出勝負才讀檔」，成功實現<strong>八星最高難度無傷擊敗將軍</strong>。然而，當作者嘗試引入<strong>課程學習（Curriculum Learning）</strong>讓 AI 循序挑戰 12 道關卡時，新舊關卡經驗在神經網路中互相干擾稀釋，使訓練卡在第十一關（泰王）無法推進。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/m19LBe9J1bQ_366.jpg" /></p><h2>混合專家架構與知識蒸餾：大模型引導小模型</h2><p>新成員 MVP 加入後，團隊借鑑大語言模型的思路，採用<strong>混合專家（MoE）架構</strong>建立了由 12 個專家網路組成的「大 AI」。在歷經 3 億次操作訓練後，大 AI 成功實現全 12 關<strong>一命無傷通關</strong>。然而，考慮到專家模型對硬體資源消耗過大，團隊轉而使用<strong>知識蒸餾（Distillation）</strong>技術，將大 AI 的決策經驗傳授給參數量較小的「小 AI」。這讓小 AI 的學習速度提升至從零開始的 6 倍，順利達成 24 局連勝，但整體通關的穩定性仍有起伏。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/m19LBe9J1bQ_705.jpg" /></p><h2>視覺預處理與節奏校正：攻克特殊對手盲點</h2><p>團隊深入統計後發現，原先設計的難度曲線起伏劇烈，大兵、鏡像隆與泰王因節奏和視覺干擾，實際難度甚至超越了最終 Boss。針對泰王出招緩慢導致的資訊缺失，MVP 將畫面<strong>抽幀間隔由 4 幀調整為 8 幀</strong>，讓 AI 能看清完整動作；面對大兵容易與背景觀眾混淆的問題，則引入<strong>運動前景提取</strong>預處理技術將大幅變化區域高亮，成功協助 AI 排除背景雜訊、精準辨識敵我狀態。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/m19LBe9J1bQ_899.jpg" /></p><h2>極致並行與終極終結者：兩天成就街霸大師</h2><p>為追求極致穩定性，MVP 提出放棄蒸餾，改用全關卡同時並行的端到端策略。團隊利用 Mac Studio 開啟 <strong>768 個對戰視窗</strong>進行龐大的強化學習並行運算，僅耗時 48 小時便累積了相當於人類遊玩 385 天的實戰經驗。最終小 AI 展現出卓越的實力，連續三輪穩定通關遊戲，甚至能泛化應對未曾見過的獎勵關卡。MVP 更進一步透過<strong>蒙特卡洛搜尋</strong>打造出極致的無傷速殺演示，並宣布將相關程式碼與模型全面開源。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/m19LBe9J1bQ_1199.jpg" /></p><h2>結語：在非主流探索中綻放生命力</h2><p>作者總結團隊雖然走過許多彎路，甚至研究的題目在常規體系中難以立項，但憑藉著單純的好奇心與好玩的熱情，大家體會到了研究的純粹與生命力。在技術日新月異的時代，終點往往是下一個探索的起點，團隊將繼續生生不息地向前修煉。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=m19LBe9J1bQ">https://www.youtube.com/watch?v=m19LBe9J1bQ</a></p><p>三年之后，我终于训出了一个能彻底杀死街霸2的终极AI！</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/m19LBe9J1bQ/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=m19LBe9J1bQ">https://www.youtube.com/watch?v=m19LBe9J1bQ</a></p><h1>值得閱讀的理由</h1><ul><li>揭秘如何結合<strong>強化學習</strong>、<strong>混合專家（MoE）</strong>與<strong>知識蒸餾</strong>等前沿 AI 技術，徹底攻克經典街機遊戲《快打旋風 2》。</li><li>詳盡分享工程實戰中的避坑指南，包括解決抽幀頻率盲點、利用<strong>運動前景提取</strong>化解背景干擾，以及打造大規模並行訓練架構。</li><li>展現團隊憑藉好奇心與開源精神，從頻繁碰壁的彎路中摸索出終極解決方案的極客探索歷程。</li></ul><hr /><h1>摘要</h1><h2>從死記硬背到八星突破：回顧與課程學習的瓶頸</h2><p>作者回顧了 2023 年利用 GPT-4 構建訓練框架通關《快打旋風 2》關底 Boss 的經歷。當時因頻繁切換模擬器存檔，導致模型產生嚴重的<strong>過擬合</strong>，只能以四星難度通關。隨著 AI 工具進步，作者重啟計畫並將回檔機制調整為「分出勝負才讀檔」，成功實現<strong>八星最高難度無傷擊敗將軍</strong>。然而，當作者嘗試引入<strong>課程學習（Curriculum Learning）</strong>讓 AI 循序挑戰 12 道關卡時，新舊關卡經驗在神經網路中互相干擾稀釋，使訓練卡在第十一關（泰王）無法推進。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/m19LBe9J1bQ_366.jpg" /></p><h2>混合專家架構與知識蒸餾：大模型引導小模型</h2><p>新成員 MVP 加入後，團隊借鑑大語言模型的思路，採用<strong>混合專家（MoE）架構</strong>建立了由 12 個專家網路組成的「大 AI」。在歷經 3 億次操作訓練後，大 AI 成功實現全 12 關<strong>一命無傷通關</strong>。然而，考慮到專家模型對硬體資源消耗過大，團隊轉而使用<strong>知識蒸餾（Distillation）</strong>技術，將大 AI 的決策經驗傳授給參數量較小的「小 AI」。這讓小 AI 的學習速度提升至從零開始的 6 倍，順利達成 24 局連勝，但整體通關的穩定性仍有起伏。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/m19LBe9J1bQ_705.jpg" /></p><h2>視覺預處理與節奏校正：攻克特殊對手盲點</h2><p>團隊深入統計後發現，原先設計的難度曲線起伏劇烈，大兵、鏡像隆與泰王因節奏和視覺干擾，實際難度甚至超越了最終 Boss。針對泰王出招緩慢導致的資訊缺失，MVP 將畫面<strong>抽幀間隔由 4 幀調整為 8 幀</strong>，讓 AI 能看清完整動作；面對大兵容易與背景觀眾混淆的問題，則引入<strong>運動前景提取</strong>預處理技術將大幅變化區域高亮，成功協助 AI 排除背景雜訊、精準辨識敵我狀態。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/m19LBe9J1bQ_899.jpg" /></p><h2>極致並行與終極終結者：兩天成就街霸大師</h2><p>為追求極致穩定性，MVP 提出放棄蒸餾，改用全關卡同時並行的端到端策略。團隊利用 Mac Studio 開啟 <strong>768 個對戰視窗</strong>進行龐大的強化學習並行運算，僅耗時 48 小時便累積了相當於人類遊玩 385 天的實戰經驗。最終小 AI 展現出卓越的實力，連續三輪穩定通關遊戲，甚至能泛化應對未曾見過的獎勵關卡。MVP 更進一步透過<strong>蒙特卡洛搜尋</strong>打造出極致的無傷速殺演示，並宣布將相關程式碼與模型全面開源。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/m19LBe9J1bQ_1199.jpg" /></p><h2>結語：在非主流探索中綻放生命力</h2><p>作者總結團隊雖然走過許多彎路，甚至研究的題目在常規體系中難以立項，但憑藉著單純的好奇心與好玩的熱情，大家體會到了研究的純粹與生命力。在技術日新月異的時代，終點往往是下一個探索的起點，團隊將繼續生生不息地向前修煉。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=m19LBe9J1bQ">https://www.youtube.com/watch?v=m19LBe9J1bQ</a></p><p>三年之后，我终于训出了一个能彻底杀死街霸2的终极AI！</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/m19LBe9J1bQ/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=m19LBe9J1bQ">https://www.youtube.com/watch?v=m19LBe9J1bQ</a></p><h1>值得閱讀的理由</h1><ul><li>揭秘如何結合<strong>強化學習</strong>、<strong>混合專家（MoE）</strong>與<strong>知識蒸餾</strong>等前沿 AI 技術，徹底攻克經典街機遊戲《快打旋風 2》。</li><li>詳盡分享工程實戰中的避坑指南，包括解決抽幀頻率盲點、利用<strong>運動前景提取</strong>化解背景干擾，以及打造大規模並行訓練架構。</li><li>展現團隊憑藉好奇心與開源精神，從頻繁碰壁的彎路中摸索出終極解決方案的極客探索歷程。</li></ul><hr /><h1>摘要</h1><h2>從死記硬背到八星突破：回顧與課程學習的瓶頸</h2><p>作者回顧了 2023 年利用 GPT-4 構建訓練框架通關《快打旋風 2》關底 Boss 的經歷。當時因頻繁切換模擬器存檔，導致模型產生嚴重的<strong>過擬合</strong>，只能以四星難度通關。隨著 AI 工具進步，作者重啟計畫並將回檔機制調整為「分出勝負才讀檔」，成功實現<strong>八星最高難度無傷擊敗將軍</strong>。然而，當作者嘗試引入<strong>課程學習（Curriculum Learning）</strong>讓 AI 循序挑戰 12 道關卡時，新舊關卡經驗在神經網路中互相干擾稀釋，使訓練卡在第十一關（泰王）無法推進。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/m19LBe9J1bQ_366.jpg" /></p><h2>混合專家架構與知識蒸餾：大模型引導小模型</h2><p>新成員 MVP 加入後，團隊借鑑大語言模型的思路，採用<strong>混合專家（MoE）架構</strong>建立了由 12 個專家網路組成的「大 AI」。在歷經 3 億次操作訓練後，大 AI 成功實現全 12 關<strong>一命無傷通關</strong>。然而，考慮到專家模型對硬體資源消耗過大，團隊轉而使用<strong>知識蒸餾（Distillation）</strong>技術，將大 AI 的決策經驗傳授給參數量較小的「小 AI」。這讓小 AI 的學習速度提升至從零開始的 6 倍，順利達成 24 局連勝，但整體通關的穩定性仍有起伏。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/m19LBe9J1bQ_705.jpg" /></p><h2>視覺預處理與節奏校正：攻克特殊對手盲點</h2><p>團隊深入統計後發現，原先設計的難度曲線起伏劇烈，大兵、鏡像隆與泰王因節奏和視覺干擾，實際難度甚至超越了最終 Boss。針對泰王出招緩慢導致的資訊缺失，MVP 將畫面<strong>抽幀間隔由 4 幀調整為 8 幀</strong>，讓 AI 能看清完整動作；面對大兵容易與背景觀眾混淆的問題，則引入<strong>運動前景提取</strong>預處理技術將大幅變化區域高亮，成功協助 AI 排除背景雜訊、精準辨識敵我狀態。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/m19LBe9J1bQ_899.jpg" /></p><h2>極致並行與終極終結者：兩天成就街霸大師</h2><p>為追求極致穩定性，MVP 提出放棄蒸餾，改用全關卡同時並行的端到端策略。團隊利用 Mac Studio 開啟 <strong>768 個對戰視窗</strong>進行龐大的強化學習並行運算，僅耗時 48 小時便累積了相當於人類遊玩 385 天的實戰經驗。最終小 AI 展現出卓越的實力，連續三輪穩定通關遊戲，甚至能泛化應對未曾見過的獎勵關卡。MVP 更進一步透過<strong>蒙特卡洛搜尋</strong>打造出極致的無傷速殺演示，並宣布將相關程式碼與模型全面開源。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/m19LBe9J1bQ_1199.jpg" /></p><h2>結語：在非主流探索中綻放生命力</h2><p>作者總結團隊雖然走過許多彎路，甚至研究的題目在常規體系中難以立項，但憑藉著單純的好奇心與好玩的熱情，大家體會到了研究的純粹與生命力。在技術日新月異的時代，終點往往是下一個探索的起點，團隊將繼續生生不息地向前修煉。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=m19LBe9J1bQ">https://www.youtube.com/watch?v=m19LBe9J1bQ</a></p><p>三年之后，我终于训出了一个能彻底杀死街霸2的终极AI！</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/m19LBe9J1bQ/hqdefault.jpg"/>
+      <pubDate>2026-10-10T13:13:35.000Z</pubDate>
+    </item><item>
+      <title><![CDATA[我们做了个AI养猫外挂！]]></title>
+      <link>https://www.youtube.com/watch?v=7g0O0E8RcgA</link>
+      <itunes:title><![CDATA[我们做了个AI养猫外挂！]]></itunes:title>
+      <itunes:author><![CDATA[林亦LYi]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/7g0O0E8RcgA/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=7g0O0E8RcgA">https://www.youtube.com/watch?v=7g0O0E8RcgA</a></p><h1>值得閱讀的理由</h1><ul><li>瞭解如何利用系統級 AI 助理將複雜的日常瑣事（如養貓排程、比價選品）自動化，提升生活與工作效率。</li><li>展示手機作業系統中<strong>跨應用操作</strong>與<strong>主動記憶</strong>的實際應用場景，顛覆傳統手機互動體驗。</li><li>深入體驗<strong>AI 通話助理</strong>如何破解繁瑣的語音客服選單，實現自動接通真人並整理重點的強大功能。</li></ul><hr /><h1>摘要</h1><h2>打造辦公室的科學養貓系統</h2><p>作者團隊為了照顧辦公室名為「老馬」的布偶貓，結合<strong>榮耀 MagicOS</strong> 的 <strong>YOYO</strong> 助理與「老馬繆塢局」介面，構建了一套量化且可視化的<strong>科學養貓系統</strong>。透過 <strong>YOYO Harness</strong> 系統級智慧中樞，YOYO 全權負責感知、思考、跨應用執行與記憶，讓原本複雜的多人養貓分工變得條理分明。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/7g0O0E8RcgA_73.jpg" /></p><h2>一鍵解決多平台選品與排程規劃</h2><p>當老馬面臨貓糧告罄且腸胃不適時，作者僅透過一段語音長指令，<strong>YOYO</strong> 便能自動在社群平台檢索合適配方、於各電商比價庫存並透過地圖規劃最佳取貨路線。此外，在面對結合洗澡與理髮的複雜跨時程安排時，YOYO 亦能權衡多項變數，在預算與時間限制內迅速生成最佳行程。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/7g0O0E8RcgA_189.jpg" /></p><h2>主動記憶與日常排程管理</h2><p>在連假輪流排班照顧方面，透過<strong>三指下滑</strong>操作，YOYO 即可從群組聊天訊息中精準提取排程並主動提醒加入日曆。同時，具備<strong>主動識別取件碼</strong>的功能，當經過快遞站時會自動跳出提示，更支援將日常關門、餵食等例行巡檢任務設定為自動化打卡流程。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/7g0O0E8RcgA_281.jpg" /></p><h2>智慧通話與無縫跨設備創作</h2><p>面對電商退換貨時繁瑣的語音客服，YOYO 的 <strong>AI 通話助理</strong>能自動應答並代為按鍵轉接真人客服，通話後還會產出<strong>重點通話摘要</strong>。在影像紀錄方面，透過<strong>跨品牌互聯</strong>輕碰即可傳輸大量素材，並利用<strong>一鍵秒記</strong>雙擊 AI 鍵快速擷取貓咪高光片段，自動完成剪輯配文並省下換機空間，展現出<strong>系統級 Agent</strong> 讓科技回歸服務生活本質的全新可能。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=7g0O0E8RcgA">https://www.youtube.com/watch?v=7g0O0E8RcgA</a></p><p>这次，我们用荣耀 YOYO 给办公室的猫做了套“科学养猫系统”。从买猫粮到洗澡排期，看看当 AI 真正进入操作系统后，一部手机已经能替我们把事情做到什么程度？</p><p></p><p>章节信息</p><p>00:00 引言</p><p>1:13 YOYO操控手机</p><p>3:09 YOYO主动记日程</p><p>4:08 YOYO任务</p><p>4:41 通话助理</p><p>5:42 跨品牌互联</p><p>6:24 内容创作助手</p><p>7:11 克隆省空间</p><p>7:47 结论</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/7g0O0E8RcgA/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=7g0O0E8RcgA">https://www.youtube.com/watch?v=7g0O0E8RcgA</a></p><h1>值得閱讀的理由</h1><ul><li>瞭解如何利用系統級 AI 助理將複雜的日常瑣事（如養貓排程、比價選品）自動化，提升生活與工作效率。</li><li>展示手機作業系統中<strong>跨應用操作</strong>與<strong>主動記憶</strong>的實際應用場景，顛覆傳統手機互動體驗。</li><li>深入體驗<strong>AI 通話助理</strong>如何破解繁瑣的語音客服選單，實現自動接通真人並整理重點的強大功能。</li></ul><hr /><h1>摘要</h1><h2>打造辦公室的科學養貓系統</h2><p>作者團隊為了照顧辦公室名為「老馬」的布偶貓，結合<strong>榮耀 MagicOS</strong> 的 <strong>YOYO</strong> 助理與「老馬繆塢局」介面，構建了一套量化且可視化的<strong>科學養貓系統</strong>。透過 <strong>YOYO Harness</strong> 系統級智慧中樞，YOYO 全權負責感知、思考、跨應用執行與記憶，讓原本複雜的多人養貓分工變得條理分明。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/7g0O0E8RcgA_73.jpg" /></p><h2>一鍵解決多平台選品與排程規劃</h2><p>當老馬面臨貓糧告罄且腸胃不適時，作者僅透過一段語音長指令，<strong>YOYO</strong> 便能自動在社群平台檢索合適配方、於各電商比價庫存並透過地圖規劃最佳取貨路線。此外，在面對結合洗澡與理髮的複雜跨時程安排時，YOYO 亦能權衡多項變數，在預算與時間限制內迅速生成最佳行程。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/7g0O0E8RcgA_189.jpg" /></p><h2>主動記憶與日常排程管理</h2><p>在連假輪流排班照顧方面，透過<strong>三指下滑</strong>操作，YOYO 即可從群組聊天訊息中精準提取排程並主動提醒加入日曆。同時，具備<strong>主動識別取件碼</strong>的功能，當經過快遞站時會自動跳出提示，更支援將日常關門、餵食等例行巡檢任務設定為自動化打卡流程。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/7g0O0E8RcgA_281.jpg" /></p><h2>智慧通話與無縫跨設備創作</h2><p>面對電商退換貨時繁瑣的語音客服，YOYO 的 <strong>AI 通話助理</strong>能自動應答並代為按鍵轉接真人客服，通話後還會產出<strong>重點通話摘要</strong>。在影像紀錄方面，透過<strong>跨品牌互聯</strong>輕碰即可傳輸大量素材，並利用<strong>一鍵秒記</strong>雙擊 AI 鍵快速擷取貓咪高光片段，自動完成剪輯配文並省下換機空間，展現出<strong>系統級 Agent</strong> 讓科技回歸服務生活本質的全新可能。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=7g0O0E8RcgA">https://www.youtube.com/watch?v=7g0O0E8RcgA</a></p><p>这次，我们用荣耀 YOYO 给办公室的猫做了套“科学养猫系统”。从买猫粮到洗澡排期，看看当 AI 真正进入操作系统后，一部手机已经能替我们把事情做到什么程度？</p><p></p><p>章节信息</p><p>00:00 引言</p><p>1:13 YOYO操控手机</p><p>3:09 YOYO主动记日程</p><p>4:08 YOYO任务</p><p>4:41 通话助理</p><p>5:42 跨品牌互联</p><p>6:24 内容创作助手</p><p>7:11 克隆省空间</p><p>7:47 结论</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/7g0O0E8RcgA/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=7g0O0E8RcgA">https://www.youtube.com/watch?v=7g0O0E8RcgA</a></p><h1>值得閱讀的理由</h1><ul><li>瞭解如何利用系統級 AI 助理將複雜的日常瑣事（如養貓排程、比價選品）自動化，提升生活與工作效率。</li><li>展示手機作業系統中<strong>跨應用操作</strong>與<strong>主動記憶</strong>的實際應用場景，顛覆傳統手機互動體驗。</li><li>深入體驗<strong>AI 通話助理</strong>如何破解繁瑣的語音客服選單，實現自動接通真人並整理重點的強大功能。</li></ul><hr /><h1>摘要</h1><h2>打造辦公室的科學養貓系統</h2><p>作者團隊為了照顧辦公室名為「老馬」的布偶貓，結合<strong>榮耀 MagicOS</strong> 的 <strong>YOYO</strong> 助理與「老馬繆塢局」介面，構建了一套量化且可視化的<strong>科學養貓系統</strong>。透過 <strong>YOYO Harness</strong> 系統級智慧中樞，YOYO 全權負責感知、思考、跨應用執行與記憶，讓原本複雜的多人養貓分工變得條理分明。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/7g0O0E8RcgA_73.jpg" /></p><h2>一鍵解決多平台選品與排程規劃</h2><p>當老馬面臨貓糧告罄且腸胃不適時，作者僅透過一段語音長指令，<strong>YOYO</strong> 便能自動在社群平台檢索合適配方、於各電商比價庫存並透過地圖規劃最佳取貨路線。此外，在面對結合洗澡與理髮的複雜跨時程安排時，YOYO 亦能權衡多項變數，在預算與時間限制內迅速生成最佳行程。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/7g0O0E8RcgA_189.jpg" /></p><h2>主動記憶與日常排程管理</h2><p>在連假輪流排班照顧方面，透過<strong>三指下滑</strong>操作，YOYO 即可從群組聊天訊息中精準提取排程並主動提醒加入日曆。同時，具備<strong>主動識別取件碼</strong>的功能，當經過快遞站時會自動跳出提示，更支援將日常關門、餵食等例行巡檢任務設定為自動化打卡流程。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/7g0O0E8RcgA_281.jpg" /></p><h2>智慧通話與無縫跨設備創作</h2><p>面對電商退換貨時繁瑣的語音客服，YOYO 的 <strong>AI 通話助理</strong>能自動應答並代為按鍵轉接真人客服，通話後還會產出<strong>重點通話摘要</strong>。在影像紀錄方面，透過<strong>跨品牌互聯</strong>輕碰即可傳輸大量素材，並利用<strong>一鍵秒記</strong>雙擊 AI 鍵快速擷取貓咪高光片段，自動完成剪輯配文並省下換機空間，展現出<strong>系統級 Agent</strong> 讓科技回歸服務生活本質的全新可能。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=7g0O0E8RcgA">https://www.youtube.com/watch?v=7g0O0E8RcgA</a></p><p>这次，我们用荣耀 YOYO 给办公室的猫做了套“科学养猫系统”。从买猫粮到洗澡排期，看看当 AI 真正进入操作系统后，一部手机已经能替我们把事情做到什么程度？</p><p></p><p>章节信息</p><p>00:00 引言</p><p>1:13 YOYO操控手机</p><p>3:09 YOYO主动记日程</p><p>4:08 YOYO任务</p><p>4:41 通话助理</p><p>5:42 跨品牌互联</p><p>6:24 内容创作助手</p><p>7:11 克隆省空间</p><p>7:47 结论</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/7g0O0E8RcgA/hqdefault.jpg"/>
+      <pubDate>2026-09-28T12:00:04.000Z</pubDate>
+    </item></channel>
+</rss>
