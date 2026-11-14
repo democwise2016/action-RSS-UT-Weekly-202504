@@ -34,6 +34,38 @@
     </itunes:owner>
     <itunes:image href="https://yt3.ggpht.com/2A8k4i7ppGHDnBwzGHIJZ5an_fvHKJ7NpjwCLXrWk003gBVu_Aknt_Fzf-52nXcUA1cInkg9Mg=s88-c-k-c0x00ffffff-no-rj"/>
 <item>
+      <title><![CDATA[落后半年的中国AI，为啥在海外吃香？]]></title>
+      <link>https://www.youtube.com/watch?v=dDBeDru42qY</link>
+      <itunes:title><![CDATA[落后半年的中国AI，为啥在海外吃香？]]></itunes:title>
+      <itunes:author><![CDATA[林亦LYi]]></itunes:author>
+      <itunes:summary>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/dDBeDru42qY/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=dDBeDru42qY">https://www.youtube.com/watch?v=dDBeDru42qY</a></p><h1>值得閱讀的理由</h1><ul><li>深入剖析非頂尖性能的中國大模型為何能憑藉極致性價比，迅速席捲海外企業市場與全球開發者生態。</li><li>解析「大模型斬殺線」如何顛覆AI市場認知，迫使海外巨頭在Token成本狂飆後重構系統架構。</li><li>展望全球AI的雙軌互補格局，理解閉源旗艦攻克技術極限與開源平價模型推動技術普及的未來趨勢。</li></ul><hr /><h1>摘要</h1><h2>Token狂歡退潮與大模型斬殺線崛起</h2><p>作者指出，今年全球AI領域呈現出截然不同的發展路徑：矽谷巨頭持續發布跨代旗艦模型挑戰科學難題，而中國模型則悄然成為眾多海外初創公司的首選。隨著智慧體應用爆發導致<strong>Token消耗量劇增</strong>，Uber、Meta等海外企業面臨龐大財務壓力，促使市場從「Token最大化」轉向「節儉最大化」。在此背景下，經濟學中的帕累托最優被具象化為<strong>大模型斬殺線</strong>，意指在綜合性能與成本平衡下，性價比極高的模型會將右下角又貴又差的競品直接淘汰。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/dDBeDru42qY_109.jpg" /></p><h2>極致性價比引爆海外企業商業化重構</h2><p>以<strong>DeepSeek</strong>、<strong>智譜GLM</strong>以及<strong>Kimi</strong>為代表的國產模型，在各項基準測試中展現出僅需極小比例成本即可達到頂級梯隊八成水準的優勢，紛紛畫出各自的斬殺線。許多海外企業開始重構系統分工架構，改由少數頂級閉源模型負責核心決策，而將大量日常執行的任務交由中國高性價比模型處理，例如AI助理新創Lindy和Teyonex藉此省下數百萬美元開銷。亞馬遜雲端科技等全球雲端巨頭也敏銳捕捉到此一趨勢，紛紛將這些模型納入其託管平台<strong>Amazon Bedrock</strong>中，加速企業的規模化調用。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/dDBeDru42qY_279.jpg" /></p><h2>開源生態深度滲透與主權AI浪潮</h2><p>除了成本優勢，真正讓海外開發者深度綁定的是<strong>開源生態</strong>。當海外大廠聚焦閉源前沿時，中國團隊在開源賽道持續投入，在Hugging Face等平台上的下載量份額顯著提升，連Meta在研發新模型時都將阿里千問納入參考。與此同時，藉由雲端服務商在架構上的深度適配與安全隔離，解決了海外企業對數據隱私的顧慮，促成包括新加坡、馬來西亞等國在內的<strong>主權AI</strong>專案紛紛採用中國開源模型作為技術底座。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/dDBeDru42qY_449.jpg" /></p><h2>雙軌互補的全球AI新格局</h2><p>作者總結，當前全球AI並非零和對決，而是形成了相互補充的雙軌格局：矽谷頂尖旗艦模型繼續攻克人類未知的前20%極限難題，而開源與平價模型則作為普及的加速器，承擔起支撐其餘80%日常商業應用的重任。只有當技術真正落地人間並融入日常生活，才迎來其最具價值的時刻。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=dDBeDru42qY">https://www.youtube.com/watch?v=dDBeDru42qY</a></p><p>为什么不是最顶尖的中国大模型，却在海外悄然走红？今天咱们就来唠唠那些出海的中国模型，看看未来全世界的AI格局会是啥样！</p>]]>
+      </itunes:summary>
+      <description>
+        <![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/dDBeDru42qY/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=dDBeDru42qY">https://www.youtube.com/watch?v=dDBeDru42qY</a></p><h1>值得閱讀的理由</h1><ul><li>深入剖析非頂尖性能的中國大模型為何能憑藉極致性價比，迅速席捲海外企業市場與全球開發者生態。</li><li>解析「大模型斬殺線」如何顛覆AI市場認知，迫使海外巨頭在Token成本狂飆後重構系統架構。</li><li>展望全球AI的雙軌互補格局，理解閉源旗艦攻克技術極限與開源平價模型推動技術普及的未來趨勢。</li></ul><hr /><h1>摘要</h1><h2>Token狂歡退潮與大模型斬殺線崛起</h2><p>作者指出，今年全球AI領域呈現出截然不同的發展路徑：矽谷巨頭持續發布跨代旗艦模型挑戰科學難題，而中國模型則悄然成為眾多海外初創公司的首選。隨著智慧體應用爆發導致<strong>Token消耗量劇增</strong>，Uber、Meta等海外企業面臨龐大財務壓力，促使市場從「Token最大化」轉向「節儉最大化」。在此背景下，經濟學中的帕累托最優被具象化為<strong>大模型斬殺線</strong>，意指在綜合性能與成本平衡下，性價比極高的模型會將右下角又貴又差的競品直接淘汰。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/dDBeDru42qY_109.jpg" /></p><h2>極致性價比引爆海外企業商業化重構</h2><p>以<strong>DeepSeek</strong>、<strong>智譜GLM</strong>以及<strong>Kimi</strong>為代表的國產模型，在各項基準測試中展現出僅需極小比例成本即可達到頂級梯隊八成水準的優勢，紛紛畫出各自的斬殺線。許多海外企業開始重構系統分工架構，改由少數頂級閉源模型負責核心決策，而將大量日常執行的任務交由中國高性價比模型處理，例如AI助理新創Lindy和Teyonex藉此省下數百萬美元開銷。亞馬遜雲端科技等全球雲端巨頭也敏銳捕捉到此一趨勢，紛紛將這些模型納入其託管平台<strong>Amazon Bedrock</strong>中，加速企業的規模化調用。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/dDBeDru42qY_279.jpg" /></p><h2>開源生態深度滲透與主權AI浪潮</h2><p>除了成本優勢，真正讓海外開發者深度綁定的是<strong>開源生態</strong>。當海外大廠聚焦閉源前沿時，中國團隊在開源賽道持續投入，在Hugging Face等平台上的下載量份額顯著提升，連Meta在研發新模型時都將阿里千問納入參考。與此同時，藉由雲端服務商在架構上的深度適配與安全隔離，解決了海外企業對數據隱私的顧慮，促成包括新加坡、馬來西亞等國在內的<strong>主權AI</strong>專案紛紛採用中國開源模型作為技術底座。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/dDBeDru42qY_449.jpg" /></p><h2>雙軌互補的全球AI新格局</h2><p>作者總結，當前全球AI並非零和對決，而是形成了相互補充的雙軌格局：矽谷頂尖旗艦模型繼續攻克人類未知的前20%極限難題，而開源與平價模型則作為普及的加速器，承擔起支撐其餘80%日常商業應用的重任。只有當技術真正落地人間並融入日常生活，才迎來其最具價值的時刻。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=dDBeDru42qY">https://www.youtube.com/watch?v=dDBeDru42qY</a></p><p>为什么不是最顶尖的中国大模型，却在海外悄然走红？今天咱们就来唠唠那些出海的中国模型，看看未来全世界的AI格局会是啥样！</p>]]>
+      </description>
+      <content:encoded><![CDATA[<hr style="clear:both" />
+
+<p><img src="https://img.youtube.com/vi/dDBeDru42qY/maxresdefault.jpg" /></p><p><a href="https://www.youtube.com/watch?v=dDBeDru42qY">https://www.youtube.com/watch?v=dDBeDru42qY</a></p><h1>值得閱讀的理由</h1><ul><li>深入剖析非頂尖性能的中國大模型為何能憑藉極致性價比，迅速席捲海外企業市場與全球開發者生態。</li><li>解析「大模型斬殺線」如何顛覆AI市場認知，迫使海外巨頭在Token成本狂飆後重構系統架構。</li><li>展望全球AI的雙軌互補格局，理解閉源旗艦攻克技術極限與開源平價模型推動技術普及的未來趨勢。</li></ul><hr /><h1>摘要</h1><h2>Token狂歡退潮與大模型斬殺線崛起</h2><p>作者指出，今年全球AI領域呈現出截然不同的發展路徑：矽谷巨頭持續發布跨代旗艦模型挑戰科學難題，而中國模型則悄然成為眾多海外初創公司的首選。隨著智慧體應用爆發導致<strong>Token消耗量劇增</strong>，Uber、Meta等海外企業面臨龐大財務壓力，促使市場從「Token最大化」轉向「節儉最大化」。在此背景下，經濟學中的帕累托最優被具象化為<strong>大模型斬殺線</strong>，意指在綜合性能與成本平衡下，性價比極高的模型會將右下角又貴又差的競品直接淘汰。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/dDBeDru42qY_109.jpg" /></p><h2>極致性價比引爆海外企業商業化重構</h2><p>以<strong>DeepSeek</strong>、<strong>智譜GLM</strong>以及<strong>Kimi</strong>為代表的國產模型，在各項基準測試中展現出僅需極小比例成本即可達到頂級梯隊八成水準的優勢，紛紛畫出各自的斬殺線。許多海外企業開始重構系統分工架構，改由少數頂級閉源模型負責核心決策，而將大量日常執行的任務交由中國高性價比模型處理，例如AI助理新創Lindy和Teyonex藉此省下數百萬美元開銷。亞馬遜雲端科技等全球雲端巨頭也敏銳捕捉到此一趨勢，紛紛將這些模型納入其託管平台<strong>Amazon Bedrock</strong>中，加速企業的規模化調用。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/dDBeDru42qY_279.jpg" /></p><h2>開源生態深度滲透與主權AI浪潮</h2><p>除了成本優勢，真正讓海外開發者深度綁定的是<strong>開源生態</strong>。當海外大廠聚焦閉源前沿時，中國團隊在開源賽道持續投入，在Hugging Face等平台上的下載量份額顯著提升，連Meta在研發新模型時都將阿里千問納入參考。與此同時，藉由雲端服務商在架構上的深度適配與安全隔離，解決了海外企業對數據隱私的顧慮，促成包括新加坡、馬來西亞等國在內的<strong>主權AI</strong>專案紛紛採用中國開源模型作為技術底座。</p><p><img src="https://democwise2016.github.io/action-RSS-UT-Weekly-202504/file-cache/dDBeDru42qY_449.jpg" /></p><h2>雙軌互補的全球AI新格局</h2><p>作者總結，當前全球AI並非零和對決，而是形成了相互補充的雙軌格局：矽谷頂尖旗艦模型繼續攻克人類未知的前20%極限難題，而開源與平價模型則作為普及的加速器，承擔起支撐其餘80%日常商業應用的重任。只有當技術真正落地人間並融入日常生活，才迎來其最具價值的時刻。</p><hr />
+
+<hr style="clear:both" />
+=============
+<p><a href="https://www.youtube.com/watch?v=dDBeDru42qY">https://www.youtube.com/watch?v=dDBeDru42qY</a></p><p>为什么不是最顶尖的中国大模型，却在海外悄然走红？今天咱们就来唠唠那些出海的中国模型，看看未来全世界的AI格局会是啥样！</p>]]></content:encoded>
+      <itunes:image href="https://i.ytimg.com/vi/dDBeDru42qY/hqdefault.jpg"/>
+      <pubDate>2026-11-13T12:00:10.000Z</pubDate>
+    </item><item>
       <title><![CDATA[一个视频搞懂大模型蒸馏！]]></title>
       <link>https://www.youtube.com/watch?v=tk4Ipn0RGRA</link>
       <itunes:title><![CDATA[一个视频搞懂大模型蒸馏！]]></itunes:title>
